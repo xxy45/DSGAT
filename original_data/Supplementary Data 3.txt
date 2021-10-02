@@ -1,0 +1,1474 @@
+SideEffectTerm	TopMedDRATerm
+glucose tolerance impaired	Metabolism and nutrition disorders
+glucose tolerance impaired	Endocrine disorders
+functional gastrointestinal disorder	Gastrointestinal disorders
+aggression	Psychiatric disorders
+strangury	Renal and urinary disorders
+transient ischaemic attack	Vascular disorders
+transient ischaemic attack	Nervous system disorders
+cardiomegaly	Cardiac disorders
+mania	Psychiatric disorders
+proctitis	Gastrointestinal disorders
+disorientation	Psychiatric disorders
+disorientation	Nervous system disorders
+blood bilirubin increased	Investigations
+blood lactate dehydrogenase increased	Investigations
+panophthalmitis	Eye disorders
+wound secretion	General disorders and administration site conditions
+wound secretion	Injury, poisoning and procedural complications
+eye disorder	Eye disorders
+periodontitis	Gastrointestinal disorders
+periodontitis	Infections and infestations
+candida infection	Infections and infestations
+atrioventricular block complete	Cardiac disorders
+gravitational oedema	General disorders and administration site conditions
+gravitational oedema	Cardiac disorders
+bipolar disorder	Psychiatric disorders
+jaundice	Hepatobiliary disorders
+jaundice	Blood and lymphatic system disorders
+jaundice	Skin and subcutaneous tissue disorders
+miosis	Eye disorders
+miosis	Nervous system disorders
+colitis ulcerative	Gastrointestinal disorders
+colitis ulcerative	Immune system disorders
+asthenia	General disorders and administration site conditions
+neurotoxicity	Nervous system disorders
+neurotoxicity	Injury, poisoning and procedural complications
+decreased appetite	Metabolism and nutrition disorders
+decreased appetite	General disorders and administration site conditions
+hypokinesia	Nervous system disorders
+sinus headache	Respiratory, thoracic and mediastinal disorders
+sinus headache	Nervous system disorders
+polycythaemia	Blood and lymphatic system disorders
+haemorrhoids	Gastrointestinal disorders
+haemorrhoids	Vascular disorders
+eye discharge	Eye disorders
+fungal skin infection	Skin and subcutaneous tissue disorders
+fungal skin infection	Infections and infestations
+gait disturbance	General disorders and administration site conditions
+gait disturbance	Nervous system disorders
+corneal lesion	Eye disorders
+tongue ulceration	Gastrointestinal disorders
+ventricular tachycardia	Cardiac disorders
+vulvovaginal mycotic infection	Reproductive system and breast disorders
+vulvovaginal mycotic infection	Infections and infestations
+rectal haemorrhage	Gastrointestinal disorders
+rectal haemorrhage	Vascular disorders
+protein total decreased	Investigations
+chromaturia	Renal and urinary disorders
+pulmonary oedema	Respiratory, thoracic and mediastinal disorders
+pulmonary oedema	Cardiac disorders
+tonsillitis	Infections and infestations
+tonsillitis	Respiratory, thoracic and mediastinal disorders
+bundle branch block	Cardiac disorders
+leukopenia	Blood and lymphatic system disorders
+ventricular fibrillation	Cardiac disorders
+breast pain	Reproductive system and breast disorders
+skin cancer	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+skin cancer	Skin and subcutaneous tissue disorders
+hypomagnesaemia	Metabolism and nutrition disorders
+rhinitis allergic	Immune system disorders
+rhinitis allergic	Respiratory, thoracic and mediastinal disorders
+movement disorder	Nervous system disorders
+ascites	Hepatobiliary disorders
+ascites	Gastrointestinal disorders
+ascites	Cardiac disorders
+tenosynovitis	Musculoskeletal and connective tissue disorders
+tongue disorder	Gastrointestinal disorders
+abdominal pain lower	Gastrointestinal disorders
+rheumatoid arthritis	Musculoskeletal and connective tissue disorders
+rheumatoid arthritis	Immune system disorders
+anorectal disorder	Gastrointestinal disorders
+arthritis	Musculoskeletal and connective tissue disorders
+neutrophil count decreased	Investigations
+panic reaction	Psychiatric disorders
+torsade de pointes	Cardiac disorders
+hyperkeratosis	Skin and subcutaneous tissue disorders
+hypoglycaemia	Metabolism and nutrition disorders
+hypoglycaemia	Endocrine disorders
+nodule	General disorders and administration site conditions
+hyporeflexia	Nervous system disorders
+skin hyperpigmentation	Skin and subcutaneous tissue disorders
+hyponatraemia	Metabolism and nutrition disorders
+viral infection	Infections and infestations
+peripheral coldness	General disorders and administration site conditions
+peripheral coldness	Vascular disorders
+dry skin	Skin and subcutaneous tissue disorders
+skin papilloma	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+skin papilloma	Skin and subcutaneous tissue disorders
+skin papilloma	Infections and infestations
+injection site reaction	General disorders and administration site conditions
+injection site reaction	Injury, poisoning and procedural complications
+somnolence	Psychiatric disorders
+somnolence	Nervous system disorders
+thyroid neoplasm	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+thyroid neoplasm	Endocrine disorders
+hair disorder	Skin and subcutaneous tissue disorders
+depressed level of consciousness	Nervous system disorders
+alveolitis allergic	Immune system disorders
+alveolitis allergic	Respiratory, thoracic and mediastinal disorders
+basal cell carcinoma	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+basal cell carcinoma	Skin and subcutaneous tissue disorders
+disseminated intravascular coagulation	Vascular disorders
+disseminated intravascular coagulation	Blood and lymphatic system disorders
+hypoxia	Respiratory, thoracic and mediastinal disorders
+loss of consciousness	Nervous system disorders
+opportunistic infection	Infections and infestations
+paraesthesia	Nervous system disorders
+exostosis	Musculoskeletal and connective tissue disorders
+nasal congestion	Respiratory, thoracic and mediastinal disorders
+thrombotic thrombocytopenic purpura	Vascular disorders
+thrombotic thrombocytopenic purpura	Blood and lymphatic system disorders
+thrombotic thrombocytopenic purpura	Skin and subcutaneous tissue disorders
+completed suicide	General disorders and administration site conditions
+completed suicide	Psychiatric disorders
+constipation	Gastrointestinal disorders
+burning sensation	General disorders and administration site conditions
+burning sensation	Nervous system disorders
+nephrolithiasis	Renal and urinary disorders
+choreoathetosis	Nervous system disorders
+emphysema	Respiratory, thoracic and mediastinal disorders
+leukoderma	Skin and subcutaneous tissue disorders
+orchitis noninfective	Reproductive system and breast disorders
+lacrimal structural disorder	Eye disorders
+bacteraemia	Infections and infestations
+ventricular extrasystoles	Cardiac disorders
+feeling abnormal	General disorders and administration site conditions
+pain of skin	Skin and subcutaneous tissue disorders
+osteoarthritis	Musculoskeletal and connective tissue disorders
+regurgitation	Gastrointestinal disorders
+prothrombin level decreased	Investigations
+ventricular arrhythmia	Cardiac disorders
+hepatitis cholestatic	Hepatobiliary disorders
+genital candidiasis	Reproductive system and breast disorders
+genital candidiasis	Infections and infestations
+peptic ulcer	Gastrointestinal disorders
+cardiovascular disorder	Vascular disorders
+cardiovascular disorder	Cardiac disorders
+mastitis	Reproductive system and breast disorders
+mastitis	Infections and infestations
+tracheitis	Infections and infestations
+tracheitis	Respiratory, thoracic and mediastinal disorders
+dyskinesia	Nervous system disorders
+pyuria	Infections and infestations
+pyuria	Renal and urinary disorders
+anuria	Renal and urinary disorders
+pharyngitis	Gastrointestinal disorders
+pharyngitis	Infections and infestations
+pharyngitis	Respiratory, thoracic and mediastinal disorders
+galactorrhoea	Reproductive system and breast disorders
+galactorrhoea	Endocrine disorders
+cheilitis	Gastrointestinal disorders
+cheilitis	Skin and subcutaneous tissue disorders
+cardiac arrest	Cardiac disorders
+ejaculation failure	Reproductive system and breast disorders
+colitis	Gastrointestinal disorders
+anxiety	Psychiatric disorders
+pneumonia	Infections and infestations
+pneumonia	Respiratory, thoracic and mediastinal disorders
+hallucination	Psychiatric disorders
+bronchitis	Infections and infestations
+bronchitis	Respiratory, thoracic and mediastinal disorders
+myositis	Musculoskeletal and connective tissue disorders
+varicose vein	Vascular disorders
+pleuritic pain	Respiratory, thoracic and mediastinal disorders
+injection site swelling	General disorders and administration site conditions
+injection site swelling	Injury, poisoning and procedural complications
+body temperature decreased	Investigations
+hyperaesthesia	Nervous system disorders
+scleritis	Eye disorders
+scleritis	Immune system disorders
+application site irritation	General disorders and administration site conditions
+application site irritation	Injury, poisoning and procedural complications
+serotonin syndrome	Musculoskeletal and connective tissue disorders
+serotonin syndrome	Nervous system disorders
+serotonin syndrome	Injury, poisoning and procedural complications
+coordination abnormal	Nervous system disorders
+irritable bowel syndrome	Gastrointestinal disorders
+irritable bowel syndrome	Psychiatric disorders
+skin atrophy	Skin and subcutaneous tissue disorders
+change of bowel habit	Gastrointestinal disorders
+disturbance in attention	Psychiatric disorders
+disturbance in attention	Nervous system disorders
+ulcer	General disorders and administration site conditions
+restless legs syndrome	Musculoskeletal and connective tissue disorders
+restless legs syndrome	Nervous system disorders
+dry eye	Eye disorders
+dermatitis	Skin and subcutaneous tissue disorders
+optic atrophy	Eye disorders
+bradykinesia	Nervous system disorders
+haematemesis	Gastrointestinal disorders
+haematemesis	Vascular disorders
+hostility	Psychiatric disorders
+endophthalmitis	Eye disorders
+endophthalmitis	Infections and infestations
+chest pain	General disorders and administration site conditions
+chest pain	Respiratory, thoracic and mediastinal disorders
+chest pain	Cardiac disorders
+sputum increased	Respiratory, thoracic and mediastinal disorders
+fungal infection	Infections and infestations
+hypochloraemia	Metabolism and nutrition disorders
+conversion disorder	Psychiatric disorders
+actinic keratosis	Skin and subcutaneous tissue disorders
+dermatitis atopic	Immune system disorders
+dermatitis atopic	Skin and subcutaneous tissue disorders
+uterine leiomyoma	Reproductive system and breast disorders
+uterine leiomyoma	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+encephalopathy	Nervous system disorders
+lung infection	Infections and infestations
+lung infection	Respiratory, thoracic and mediastinal disorders
+electrocardiogram st segment depression	Investigations
+asthenopia	Eye disorders
+laryngospasm	Respiratory, thoracic and mediastinal disorders
+angle closure glaucoma	Eye disorders
+blood creatine phosphokinase increased	Investigations
+breast tenderness	Reproductive system and breast disorders
+chromatopsia	Eye disorders
+renal failure	Renal and urinary disorders
+nasopharyngitis	Infections and infestations
+nasopharyngitis	Respiratory, thoracic and mediastinal disorders
+foetor hepaticus	Hepatobiliary disorders
+foetor hepaticus	Gastrointestinal disorders
+cerebral haemorrhage	Vascular disorders
+cerebral haemorrhage	Nervous system disorders
+furuncle	Skin and subcutaneous tissue disorders
+furuncle	Infections and infestations
+tension headache	Nervous system disorders
+laryngitis	Infections and infestations
+laryngitis	Respiratory, thoracic and mediastinal disorders
+uterine haemorrhage	Reproductive system and breast disorders
+uterine haemorrhage	Vascular disorders
+cholelithiasis	Hepatobiliary disorders
+rhabdomyolysis	Musculoskeletal and connective tissue disorders
+blood creatinine increased	Investigations
+hypophosphataemia	Metabolism and nutrition disorders
+urine analysis abnormal	Investigations
+neoplasm	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+balance disorder	Nervous system disorders
+erythema	Skin and subcutaneous tissue disorders
+haemoptysis	Vascular disorders
+haemoptysis	Respiratory, thoracic and mediastinal disorders
+haemoptysis	Cardiac disorders
+tumour lysis syndrome	Metabolism and nutrition disorders
+tumour lysis syndrome	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+blood calcium decreased	Investigations
+herpes zoster	Skin and subcutaneous tissue disorders
+herpes zoster	Infections and infestations
+herpes zoster	Nervous system disorders
+hypohidrosis	General disorders and administration site conditions
+hypohidrosis	Skin and subcutaneous tissue disorders
+glossitis	Gastrointestinal disorders
+salivary gland enlargement	Gastrointestinal disorders
+lower respiratory tract infection	Infections and infestations
+lower respiratory tract infection	Respiratory, thoracic and mediastinal disorders
+leukocytosis	Blood and lymphatic system disorders
+premenstrual syndrome	Reproductive system and breast disorders
+premenstrual syndrome	Psychiatric disorders
+gastrointestinal carcinoma	Gastrointestinal disorders
+gastrointestinal carcinoma	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+abscess	Infections and infestations
+sinusitis	Infections and infestations
+sinusitis	Respiratory, thoracic and mediastinal disorders
+induration	General disorders and administration site conditions
+ejaculation disorder	Reproductive system and breast disorders
+connective tissue disorder	Musculoskeletal and connective tissue disorders
+hot flush	Reproductive system and breast disorders
+hot flush	General disorders and administration site conditions
+hot flush	Vascular disorders
+uterine disorder	Reproductive system and breast disorders
+application site paraesthesia	General disorders and administration site conditions
+application site paraesthesia	Nervous system disorders
+application site paraesthesia	Injury, poisoning and procedural complications
+parosmia	Respiratory, thoracic and mediastinal disorders
+parosmia	Nervous system disorders
+onychomycosis	Skin and subcutaneous tissue disorders
+onychomycosis	Infections and infestations
+liver injury	Hepatobiliary disorders
+liver injury	Injury, poisoning and procedural complications
+crohn's disease	Gastrointestinal disorders
+crohn's disease	Immune system disorders
+urinary incontinence	Renal and urinary disorders
+urinary incontinence	Nervous system disorders
+clostridium difficile colitis	Gastrointestinal disorders
+clostridium difficile colitis	Infections and infestations
+dyspareunia	Reproductive system and breast disorders
+dyspareunia	Psychiatric disorders
+bronchospasm	Immune system disorders
+bronchospasm	Respiratory, thoracic and mediastinal disorders
+stevens-johnson syndrome	Immune system disorders
+stevens-johnson syndrome	Skin and subcutaneous tissue disorders
+stevens-johnson syndrome	Infections and infestations
+stevens-johnson syndrome	Injury, poisoning and procedural complications
+syncope	Vascular disorders
+syncope	Cardiac disorders
+syncope	Nervous system disorders
+international normalised ratio increased	Investigations
+seborrhoeic dermatitis	Skin and subcutaneous tissue disorders
+pollakiuria	Renal and urinary disorders
+colitis ischaemic	Gastrointestinal disorders
+colitis ischaemic	Vascular disorders
+flatulence	Gastrointestinal disorders
+brain oedema	Nervous system disorders
+brain oedema	Injury, poisoning and procedural complications
+lymphoma	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+lymphoma	Blood and lymphatic system disorders
+rosacea	Skin and subcutaneous tissue disorders
+diplopia	Eye disorders
+diplopia	Nervous system disorders
+malnutrition	Metabolism and nutrition disorders
+anaemia macrocytic	Metabolism and nutrition disorders
+anaemia macrocytic	Blood and lymphatic system disorders
+rhinitis	Infections and infestations
+rhinitis	Respiratory, thoracic and mediastinal disorders
+incontinence	Gastrointestinal disorders
+incontinence	Renal and urinary disorders
+incontinence	Nervous system disorders
+hepatocellular injury	Hepatobiliary disorders
+blood potassium increased	Investigations
+musculoskeletal stiffness	Musculoskeletal and connective tissue disorders
+apraxia	Psychiatric disorders
+apraxia	Nervous system disorders
+endometrial disorder	Reproductive system and breast disorders
+menopause	Social circumstances
+cardiomyopathy	Cardiac disorders
+scab	Skin and subcutaneous tissue disorders
+cystitis haemorrhagic	Renal and urinary disorders
+loss of libido	Psychiatric disorders
+urticaria	Immune system disorders
+urticaria	Skin and subcutaneous tissue disorders
+hypotonia	Musculoskeletal and connective tissue disorders
+hypotonia	Nervous system disorders
+cardiac failure	Cardiac disorders
+sneezing	Respiratory, thoracic and mediastinal disorders
+ecchymosis	Vascular disorders
+ecchymosis	Blood and lymphatic system disorders
+ecchymosis	Skin and subcutaneous tissue disorders
+feeling hot	General disorders and administration site conditions
+renal pain	Renal and urinary disorders
+abnormal dreams	Psychiatric disorders
+abnormal dreams	Nervous system disorders
+melanosis	Skin and subcutaneous tissue disorders
+hyperacusis	Ear and labyrinth disorders
+hyperacusis	Nervous system disorders
+blindness	Eye disorders
+blindness	Nervous system disorders
+personality disorder	Psychiatric disorders
+aplastic anaemia	Blood and lymphatic system disorders
+endocrine disorder	Endocrine disorders
+peripheral ischaemia	Vascular disorders
+prostate cancer	Reproductive system and breast disorders
+prostate cancer	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+neuritis	Nervous system disorders
+pruritus genital	Reproductive system and breast disorders
+pruritus genital	Skin and subcutaneous tissue disorders
+flat affect	Psychiatric disorders
+liver disorder	Hepatobiliary disorders
+infusion site reaction	General disorders and administration site conditions
+infusion site reaction	Injury, poisoning and procedural complications
+polyuria	Renal and urinary disorders
+extravasation	General disorders and administration site conditions
+subarachnoid haemorrhage	Vascular disorders
+subarachnoid haemorrhage	Nervous system disorders
+subarachnoid haemorrhage	Injury, poisoning and procedural complications
+lymphadenopathy	Blood and lymphatic system disorders
+cyanosis	Vascular disorders
+cyanosis	Respiratory, thoracic and mediastinal disorders
+cyanosis	Cardiac disorders
+herpes virus infection	Infections and infestations
+non-cardiac chest pain	General disorders and administration site conditions
+non-cardiac chest pain	Respiratory, thoracic and mediastinal disorders
+appendicitis	Gastrointestinal disorders
+appendicitis	Infections and infestations
+excoriation	Skin and subcutaneous tissue disorders
+excoriation	Injury, poisoning and procedural complications
+erythema multiforme	Immune system disorders
+erythema multiforme	Skin and subcutaneous tissue disorders
+laryngeal pain	Respiratory, thoracic and mediastinal disorders
+hepatic steatosis	Hepatobiliary disorders
+hepatic steatosis	Metabolism and nutrition disorders
+nephropathy	Renal and urinary disorders
+corneal opacity	Eye disorders
+odynophagia	Gastrointestinal disorders
+herpes simplex	Skin and subcutaneous tissue disorders
+herpes simplex	Infections and infestations
+gastrointestinal haemorrhage	Gastrointestinal disorders
+gastrointestinal haemorrhage	Vascular disorders
+breath odour	Gastrointestinal disorders
+hepatobiliary disease	Hepatobiliary disorders
+pseudomembranous colitis	Gastrointestinal disorders
+pseudomembranous colitis	Infections and infestations
+psychotic disorder	Psychiatric disorders
+eosinophilia	Blood and lymphatic system disorders
+menstrual disorder	Reproductive system and breast disorders
+seborrhoeic keratosis	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+seborrhoeic keratosis	Skin and subcutaneous tissue disorders
+myocardial infarction	Vascular disorders
+myocardial infarction	Cardiac disorders
+diarrhoea	Gastrointestinal disorders
+rash pustular	Skin and subcutaneous tissue disorders
+rash pustular	Infections and infestations
+electroencephalogram abnormal	Investigations
+acidosis	Metabolism and nutrition disorders
+otitis externa	Infections and infestations
+otitis externa	Ear and labyrinth disorders
+duodenitis	Gastrointestinal disorders
+polydipsia	Metabolism and nutrition disorders
+polydipsia	Endocrine disorders
+vaginal infection	Reproductive system and breast disorders
+vaginal infection	Infections and infestations
+respiratory tract infection	Infections and infestations
+respiratory tract infection	Respiratory, thoracic and mediastinal disorders
+cyst	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+cyst	General disorders and administration site conditions
+pancreatitis	Gastrointestinal disorders
+affective disorder	Psychiatric disorders
+status epilepticus	Nervous system disorders
+epididymitis	Reproductive system and breast disorders
+epididymitis	Infections and infestations
+schizophreniform disorder	Psychiatric disorders
+intermittent claudication	Vascular disorders
+tachycardia	Cardiac disorders
+keratitis	Eye disorders
+local swelling	General disorders and administration site conditions
+skin exfoliation	Skin and subcutaneous tissue disorders
+mydriasis	Eye disorders
+mydriasis	Nervous system disorders
+atrial fibrillation	Cardiac disorders
+gastrointestinal infection	Gastrointestinal disorders
+gastrointestinal infection	Infections and infestations
+peripheral vascular disorder	Vascular disorders
+immune system disorder	Immune system disorders
+palpitations	Cardiac disorders
+dyspnoea	Respiratory, thoracic and mediastinal disorders
+dyspnoea	Cardiac disorders
+hyperlactacidaemia	Metabolism and nutrition disorders
+nystagmus	Eye disorders
+nystagmus	Nervous system disorders
+hypersensitivity	Immune system disorders
+multiple fractures	Musculoskeletal and connective tissue disorders
+multiple fractures	Injury, poisoning and procedural complications
+menorrhagia	Reproductive system and breast disorders
+adrenal insufficiency	Metabolism and nutrition disorders
+adrenal insufficiency	Endocrine disorders
+skin infection	Skin and subcutaneous tissue disorders
+skin infection	Infections and infestations
+folliculitis	Skin and subcutaneous tissue disorders
+folliculitis	Infections and infestations
+sinus congestion	Respiratory, thoracic and mediastinal disorders
+lacrimal disorder	Eye disorders
+non-hodgkin's lymphoma	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+non-hodgkin's lymphoma	Blood and lymphatic system disorders
+tendinous contracture	Musculoskeletal and connective tissue disorders
+renal tubular necrosis	Renal and urinary disorders
+yawning	Respiratory, thoracic and mediastinal disorders
+blood glucose decreased	Investigations
+application site rash	General disorders and administration site conditions
+application site rash	Skin and subcutaneous tissue disorders
+application site rash	Injury, poisoning and procedural complications
+oral pain	Gastrointestinal disorders
+photophobia	Eye disorders
+photophobia	Nervous system disorders
+subdural haematoma	Vascular disorders
+subdural haematoma	Nervous system disorders
+subdural haematoma	Injury, poisoning and procedural complications
+insomnia	Psychiatric disorders
+insomnia	Nervous system disorders
+myocardial ischaemia	Vascular disorders
+myocardial ischaemia	Cardiac disorders
+confusional state	Psychiatric disorders
+confusional state	Nervous system disorders
+drug eruption	Immune system disorders
+drug eruption	General disorders and administration site conditions
+drug eruption	Skin and subcutaneous tissue disorders
+dysphoria	Psychiatric disorders
+lipase increased	Investigations
+skin odour abnormal	Skin and subcutaneous tissue disorders
+hiccups	Gastrointestinal disorders
+hiccups	Respiratory, thoracic and mediastinal disorders
+breast disorder	Reproductive system and breast disorders
+metrorrhagia	Reproductive system and breast disorders
+oedema	Metabolism and nutrition disorders
+oedema	General disorders and administration site conditions
+haematocrit decreased	Investigations
+gastrooesophageal reflux disease	Gastrointestinal disorders
+anaphylactoid reaction	Immune system disorders
+anaphylactoid reaction	Vascular disorders
+renal impairment	Renal and urinary disorders
+thirst	Metabolism and nutrition disorders
+thirst	General disorders and administration site conditions
+perineal pain	Reproductive system and breast disorders
+injection site haemorrhage	General disorders and administration site conditions
+injection site haemorrhage	Vascular disorders
+injection site haemorrhage	Injury, poisoning and procedural complications
+skin disorder	Skin and subcutaneous tissue disorders
+cough	Respiratory, thoracic and mediastinal disorders
+platelet count decreased	Investigations
+ear disorder	Ear and labyrinth disorders
+tongue oedema	Gastrointestinal disorders
+tongue oedema	Immune system disorders
+tongue oedema	Skin and subcutaneous tissue disorders
+benign neoplasm of skin	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+benign neoplasm of skin	Skin and subcutaneous tissue disorders
+feeling cold	General disorders and administration site conditions
+breast neoplasm	Reproductive system and breast disorders
+breast neoplasm	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+peripheral sensory neuropathy	Nervous system disorders
+gastroenteritis	Gastrointestinal disorders
+gastroenteritis	Infections and infestations
+rash macular	Skin and subcutaneous tissue disorders
+skin discolouration	Skin and subcutaneous tissue disorders
+myalgia	Musculoskeletal and connective tissue disorders
+blood uric acid increased	Investigations
+injection site erythema	General disorders and administration site conditions
+injection site erythema	Skin and subcutaneous tissue disorders
+injection site erythema	Injury, poisoning and procedural complications
+withdrawal syndrome	General disorders and administration site conditions
+withdrawal syndrome	Psychiatric disorders
+conjunctival haemorrhage	Eye disorders
+conjunctival haemorrhage	Vascular disorders
+gingivitis	Gastrointestinal disorders
+gingivitis	Infections and infestations
+anger	Psychiatric disorders
+breast engorgement	Reproductive system and breast disorders
+breast engorgement	Pregnancy, puerperium and perinatal conditions
+ejaculation delayed	Reproductive system and breast disorders
+pulmonary congestion	Vascular disorders
+pulmonary congestion	Respiratory, thoracic and mediastinal disorders
+pulmonary congestion	Cardiac disorders
+neutropenia	Blood and lymphatic system disorders
+abdominal distension	Gastrointestinal disorders
+fracture	Musculoskeletal and connective tissue disorders
+fracture	Injury, poisoning and procedural complications
+gangrene	Vascular disorders
+gangrene	Skin and subcutaneous tissue disorders
+gangrene	Infections and infestations
+viral upper respiratory tract infection	Infections and infestations
+viral upper respiratory tract infection	Respiratory, thoracic and mediastinal disorders
+pain	General disorders and administration site conditions
+salpingitis	Reproductive system and breast disorders
+salpingitis	Infections and infestations
+musculoskeletal chest pain	Musculoskeletal and connective tissue disorders
+musculoskeletal chest pain	Respiratory, thoracic and mediastinal disorders
+bursitis	Musculoskeletal and connective tissue disorders
+bursitis	Injury, poisoning and procedural complications
+urinary retention	Renal and urinary disorders
+hypoventilation	Respiratory, thoracic and mediastinal disorders
+alanine aminotransferase increased	Investigations
+lichenoid keratosis	Skin and subcutaneous tissue disorders
+parkinsonism	Nervous system disorders
+weight increased	Investigations
+pleural effusion	Respiratory, thoracic and mediastinal disorders
+feeling drunk	General disorders and administration site conditions
+mediastinal disorder	Respiratory, thoracic and mediastinal disorders
+haemolytic anaemia	Blood and lymphatic system disorders
+intracranial pressure increased	Nervous system disorders
+respiratory tract congestion	Respiratory, thoracic and mediastinal disorders
+tinnitus	Ear and labyrinth disorders
+tinnitus	Nervous system disorders
+rectal tenesmus	Musculoskeletal and connective tissue disorders
+rectal tenesmus	Gastrointestinal disorders
+hepatic cancer	Hepatobiliary disorders
+hepatic cancer	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+gout	Metabolism and nutrition disorders
+gout	Musculoskeletal and connective tissue disorders
+lethargy	General disorders and administration site conditions
+lethargy	Psychiatric disorders
+lethargy	Nervous system disorders
+aplasia pure red cell	Immune system disorders
+aplasia pure red cell	Blood and lymphatic system disorders
+diabetes mellitus	Metabolism and nutrition disorders
+diabetes mellitus	Endocrine disorders
+anal pruritus	Gastrointestinal disorders
+ketosis	Metabolism and nutrition disorders
+impetigo	Skin and subcutaneous tissue disorders
+impetigo	Infections and infestations
+instillation site pain	General disorders and administration site conditions
+instillation site pain	Injury, poisoning and procedural complications
+sialoadenitis	Gastrointestinal disorders
+sialoadenitis	Infections and infestations
+blood cholesterol increased	Investigations
+arthropathy	Musculoskeletal and connective tissue disorders
+hyperaemia	Vascular disorders
+pain in jaw	Musculoskeletal and connective tissue disorders
+diverticulitis	Gastrointestinal disorders
+diverticulitis	Infections and infestations
+coma	Nervous system disorders
+mental disability	Social circumstances
+joint swelling	Musculoskeletal and connective tissue disorders
+lacrimation increased	Eye disorders
+application site burn	General disorders and administration site conditions
+application site burn	Skin and subcutaneous tissue disorders
+application site burn	Injury, poisoning and procedural complications
+vasospasm	Vascular disorders
+transaminases increased	Investigations
+uterine spasm	Reproductive system and breast disorders
+blepharospasm	Eye disorders
+blepharospasm	Nervous system disorders
+pharyngitis streptococcal	Infections and infestations
+pharyngitis streptococcal	Respiratory, thoracic and mediastinal disorders
+hepatotoxicity	Hepatobiliary disorders
+hepatotoxicity	Injury, poisoning and procedural complications
+ligament sprain	Musculoskeletal and connective tissue disorders
+ligament sprain	Injury, poisoning and procedural complications
+haemolytic uraemic syndrome	Blood and lymphatic system disorders
+haemolytic uraemic syndrome	Renal and urinary disorders
+hyperlipidaemia	Metabolism and nutrition disorders
+hepatomegaly	Hepatobiliary disorders
+blood disorder	Blood and lymphatic system disorders
+sleep disorder	Psychiatric disorders
+wheezing	Respiratory, thoracic and mediastinal disorders
+ovarian cyst	Reproductive system and breast disorders
+ovarian cyst	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+cardiac output decreased	Investigations
+agranulocytosis	Blood and lymphatic system disorders
+hyperkinesia	Nervous system disorders
+cystitis	Infections and infestations
+cystitis	Renal and urinary disorders
+hypertrichosis	Skin and subcutaneous tissue disorders
+enteritis	Gastrointestinal disorders
+splenomegaly	Blood and lymphatic system disorders
+pericarditis	Cardiac disorders
+lactic acidosis	Metabolism and nutrition disorders
+increased appetite	Metabolism and nutrition disorders
+increased appetite	General disorders and administration site conditions
+muscle tightness	Musculoskeletal and connective tissue disorders
+toothache	Gastrointestinal disorders
+ear pain	Ear and labyrinth disorders
+respiratory distress	Respiratory, thoracic and mediastinal disorders
+laceration	Skin and subcutaneous tissue disorders
+laceration	Injury, poisoning and procedural complications
+bladder cancer	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+bladder cancer	Renal and urinary disorders
+hepatic function abnormal	Hepatobiliary disorders
+ocular discomfort	Eye disorders
+delirium	Psychiatric disorders
+menstruation irregular	Reproductive system and breast disorders
+menstruation irregular	Endocrine disorders
+impaired healing	General disorders and administration site conditions
+nocturia	Renal and urinary disorders
+ototoxicity	Ear and labyrinth disorders
+ototoxicity	Injury, poisoning and procedural complications
+eye oedema	Eye disorders
+dehydration	Metabolism and nutrition disorders
+dermatitis acneiform	Skin and subcutaneous tissue disorders
+sexual dysfunction	Reproductive system and breast disorders
+sexual dysfunction	Psychiatric disorders
+dermatitis bullous	Skin and subcutaneous tissue disorders
+rhonchi	Respiratory, thoracic and mediastinal disorders
+phlebitis	Vascular disorders
+phlebitis	Injury, poisoning and procedural complications
+cold sweat	General disorders and administration site conditions
+cold sweat	Skin and subcutaneous tissue disorders
+injection site induration	General disorders and administration site conditions
+injection site induration	Injury, poisoning and procedural complications
+haematuria	Reproductive system and breast disorders
+haematuria	Vascular disorders
+haematuria	Renal and urinary disorders
+thyroiditis	Endocrine disorders
+infusion site pain	General disorders and administration site conditions
+infusion site pain	Injury, poisoning and procedural complications
+application site pain	General disorders and administration site conditions
+application site pain	Injury, poisoning and procedural complications
+glossodynia	Gastrointestinal disorders
+amblyopia	Eye disorders
+albuminuria	Renal and urinary disorders
+neuralgia	Nervous system disorders
+cachexia	Metabolism and nutrition disorders
+cachexia	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+cachexia	General disorders and administration site conditions
+snoring	Respiratory, thoracic and mediastinal disorders
+oesophageal stenosis	Gastrointestinal disorders
+vestibular disorder	Ear and labyrinth disorders
+vestibular disorder	Nervous system disorders
+pelvic pain	Gastrointestinal disorders
+pelvic pain	Reproductive system and breast disorders
+pelvic pain	Renal and urinary disorders
+hepatitis	Hepatobiliary disorders
+priapism	Reproductive system and breast disorders
+rales	Respiratory, thoracic and mediastinal disorders
+pancytopenia	Blood and lymphatic system disorders
+metabolic acidosis	Metabolism and nutrition disorders
+paralysis	Nervous system disorders
+atrioventricular block first degree	Cardiac disorders
+hypothermia	General disorders and administration site conditions
+hypothermia	Injury, poisoning and procedural complications
+upper respiratory tract infection	Infections and infestations
+upper respiratory tract infection	Respiratory, thoracic and mediastinal disorders
+laboratory test abnormal	Investigations
+haemorrhage intracranial	Vascular disorders
+haemorrhage intracranial	Nervous system disorders
+retching	Gastrointestinal disorders
+presyncope	Vascular disorders
+presyncope	Cardiac disorders
+presyncope	Nervous system disorders
+conduction disorder	Cardiac disorders
+breast cancer	Reproductive system and breast disorders
+breast cancer	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+electrocardiogram abnormal	Investigations
+blood alkaline phosphatase increased	Investigations
+venous thrombosis	Vascular disorders
+testicular pain	Reproductive system and breast disorders
+paraesthesia oral	Gastrointestinal disorders
+paraesthesia oral	Nervous system disorders
+oesophageal ulcer	Gastrointestinal disorders
+dysgeusia	Gastrointestinal disorders
+dysgeusia	Nervous system disorders
+aneurysm	Vascular disorders
+dysmenorrhoea	Reproductive system and breast disorders
+pneumonia aspiration	Respiratory, thoracic and mediastinal disorders
+toxicity to various agents	Injury, poisoning and procedural complications
+hypertension	Vascular disorders
+meningitis	Infections and infestations
+meningitis	Nervous system disorders
+somnambulism	Psychiatric disorders
+somnambulism	Nervous system disorders
+protein urine present	Investigations
+abnormal faeces	Gastrointestinal disorders
+musculoskeletal pain	Musculoskeletal and connective tissue disorders
+vertigo	Ear and labyrinth disorders
+vertigo	Nervous system disorders
+antisocial personality disorder	Psychiatric disorders
+blood glucose increased	Investigations
+otitis media	Infections and infestations
+otitis media	Ear and labyrinth disorders
+apathy	Psychiatric disorders
+urinary tract disorder	Renal and urinary disorders
+swelling face	Immune system disorders
+swelling face	Skin and subcutaneous tissue disorders
+skin striae	Skin and subcutaneous tissue disorders
+influenza	Infections and infestations
+influenza	Respiratory, thoracic and mediastinal disorders
+embolism	Vascular disorders
+supraventricular extrasystoles	Cardiac disorders
+muscle contractions involuntary	Musculoskeletal and connective tissue disorders
+muscle contractions involuntary	Nervous system disorders
+ill-defined disorder	General disorders and administration site conditions
+hernia	General disorders and administration site conditions
+osteoporosis	Metabolism and nutrition disorders
+osteoporosis	Musculoskeletal and connective tissue disorders
+pulmonary embolism	Vascular disorders
+pulmonary embolism	Respiratory, thoracic and mediastinal disorders
+hyperhidrosis	General disorders and administration site conditions
+hyperhidrosis	Skin and subcutaneous tissue disorders
+nasal discomfort	Respiratory, thoracic and mediastinal disorders
+telangiectasia	Vascular disorders
+telangiectasia	Skin and subcutaneous tissue disorders
+injection site pruritus	General disorders and administration site conditions
+injection site pruritus	Skin and subcutaneous tissue disorders
+injection site pruritus	Injury, poisoning and procedural complications
+lung infiltration	Respiratory, thoracic and mediastinal disorders
+hyperkalaemia	Metabolism and nutrition disorders
+vascular purpura	Vascular disorders
+vascular purpura	Blood and lymphatic system disorders
+vascular purpura	Skin and subcutaneous tissue disorders
+conjunctivitis	Eye disorders
+conjunctivitis	Infections and infestations
+neoplasm malignant	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+urethritis	Infections and infestations
+urethritis	Renal and urinary disorders
+vomiting	Gastrointestinal disorders
+blood triglycerides increased	Investigations
+prurigo	Skin and subcutaneous tissue disorders
+pulmonary function test decreased	Investigations
+inappropriate antidiuretic hormone secretion	Metabolism and nutrition disorders
+inappropriate antidiuretic hormone secretion	Endocrine disorders
+stupor	Psychiatric disorders
+stupor	Nervous system disorders
+ovarian disorder	Reproductive system and breast disorders
+oesophagitis	Gastrointestinal disorders
+cataract	Eye disorders
+amylase increased	Investigations
+haemoglobin	Investigations
+injury	Injury, poisoning and procedural complications
+weight decreased	Investigations
+blood phosphorus decreased	Investigations
+cellulitis	Skin and subcutaneous tissue disorders
+cellulitis	Infections and infestations
+embolism venous	Vascular disorders
+ocular hyperaemia	Eye disorders
+increased bronchial secretion	Respiratory, thoracic and mediastinal disorders
+lymphocytosis	Blood and lymphatic system disorders
+mental disorder	Psychiatric disorders
+ageusia	Gastrointestinal disorders
+ageusia	Nervous system disorders
+pseudolymphoma	Blood and lymphatic system disorders
+bronchospasm paradoxical	Respiratory, thoracic and mediastinal disorders
+neutropenic sepsis	Blood and lymphatic system disorders
+neutropenic sepsis	Infections and infestations
+systemic lupus erythematosus	Musculoskeletal and connective tissue disorders
+systemic lupus erythematosus	Immune system disorders
+systemic lupus erythematosus	Skin and subcutaneous tissue disorders
+eye swelling	Eye disorders
+hypoproteinaemia	Hepatobiliary disorders
+hypoproteinaemia	Metabolism and nutrition disorders
+application site reaction	General disorders and administration site conditions
+application site reaction	Injury, poisoning and procedural complications
+joint stiffness	Musculoskeletal and connective tissue disorders
+sensory disturbance	Nervous system disorders
+viral diarrhoea	Gastrointestinal disorders
+viral diarrhoea	Infections and infestations
+dry throat	Gastrointestinal disorders
+dry throat	Respiratory, thoracic and mediastinal disorders
+skin ulcer	Vascular disorders
+skin ulcer	Skin and subcutaneous tissue disorders
+peritonitis	Gastrointestinal disorders
+peritonitis	Infections and infestations
+injection site pain	General disorders and administration site conditions
+injection site pain	Injury, poisoning and procedural complications
+ileus paralytic	Gastrointestinal disorders
+bradycardia	Cardiac disorders
+flank pain	Musculoskeletal and connective tissue disorders
+flank pain	General disorders and administration site conditions
+flank pain	Renal and urinary disorders
+erythema of eyelid	Eye disorders
+erythema of eyelid	Skin and subcutaneous tissue disorders
+hypoalbuminaemia	Hepatobiliary disorders
+hypoalbuminaemia	Metabolism and nutrition disorders
+hypochromic anaemia	Blood and lymphatic system disorders
+nephritis	Renal and urinary disorders
+urinary tract infection	Infections and infestations
+urinary tract infection	Renal and urinary disorders
+diarrhoea haemorrhagic	Gastrointestinal disorders
+diarrhoea haemorrhagic	Vascular disorders
+cholestasis	Hepatobiliary disorders
+atelectasis	Respiratory, thoracic and mediastinal disorders
+penis disorder	Reproductive system and breast disorders
+aphasia	Psychiatric disorders
+aphasia	Nervous system disorders
+oculogyric crisis	Eye disorders
+oculogyric crisis	Nervous system disorders
+nodal arrhythmia	Cardiac disorders
+application site dryness	General disorders and administration site conditions
+application site dryness	Skin and subcutaneous tissue disorders
+application site dryness	Injury, poisoning and procedural complications
+abdominal pain upper	Gastrointestinal disorders
+plasmacytoma	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+plasmacytoma	Blood and lymphatic system disorders
+pneumothorax	Respiratory, thoracic and mediastinal disorders
+oral candidiasis	Gastrointestinal disorders
+oral candidiasis	Infections and infestations
+sudden death	General disorders and administration site conditions
+sudden death	Cardiac disorders
+blister	Skin and subcutaneous tissue disorders
+blister	Injury, poisoning and procedural complications
+extrasystoles	Cardiac disorders
+vasodilation procedure	Surgical and medical procedures
+plasma cell myeloma	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+plasma cell myeloma	Blood and lymphatic system disorders
+osteomyelitis	Musculoskeletal and connective tissue disorders
+osteomyelitis	Infections and infestations
+pain in extremity	Musculoskeletal and connective tissue disorders
+pyelonephritis	Infections and infestations
+pyelonephritis	Renal and urinary disorders
+febrile neutropenia	General disorders and administration site conditions
+febrile neutropenia	Blood and lymphatic system disorders
+cardiac flutter	Cardiac disorders
+cerebral ischaemia	Vascular disorders
+cerebral ischaemia	Nervous system disorders
+gastric ulcer	Gastrointestinal disorders
+tooth abscess	Gastrointestinal disorders
+tooth abscess	Infections and infestations
+apnoea	Respiratory, thoracic and mediastinal disorders
+headache	Nervous system disorders
+xerophthalmia	Metabolism and nutrition disorders
+xerophthalmia	Eye disorders
+fasting	Social circumstances
+fibrocystic breast disease	Reproductive system and breast disorders
+fibrocystic breast disease	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+oliguria	Renal and urinary disorders
+anaphylactic shock	Immune system disorders
+anaphylactic shock	Vascular disorders
+sinus bradycardia	Cardiac disorders
+neuropathy peripheral	Nervous system disorders
+tardive dyskinesia	Nervous system disorders
+rash erythematous	Skin and subcutaneous tissue disorders
+ear infection	Infections and infestations
+ear infection	Ear and labyrinth disorders
+atrial flutter	Cardiac disorders
+papilloedema	Eye disorders
+papilloedema	Vascular disorders
+papilloedema	Nervous system disorders
+mucosal inflammation	General disorders and administration site conditions
+sensation of foreign body	General disorders and administration site conditions
+nephropathy toxic	Renal and urinary disorders
+nephropathy toxic	Injury, poisoning and procedural complications
+ileus	Gastrointestinal disorders
+gastrointestinal disorder	Gastrointestinal disorders
+hepatic enzyme increased	Investigations
+arrhythmia	Cardiac disorders
+angiopathy	Vascular disorders
+sluggishness	General disorders and administration site conditions
+swelling	General disorders and administration site conditions
+upper-airway cough syndrome	Respiratory, thoracic and mediastinal disorders
+dermatitis contact	Immune system disorders
+dermatitis contact	Skin and subcutaneous tissue disorders
+dermatitis contact	Injury, poisoning and procedural complications
+akinesia	Nervous system disorders
+gastritis	Gastrointestinal disorders
+paranoia	Psychiatric disorders
+biliary colic	Hepatobiliary disorders
+body temperature increased	Investigations
+speech disorder	Respiratory, thoracic and mediastinal disorders
+speech disorder	Psychiatric disorders
+speech disorder	Nervous system disorders
+vulvovaginal pruritus	Reproductive system and breast disorders
+vulvovaginal pruritus	Skin and subcutaneous tissue disorders
+motion sickness	Ear and labyrinth disorders
+motion sickness	Nervous system disorders
+goitre	Metabolism and nutrition disorders
+goitre	Endocrine disorders
+cardiogenic shock	Vascular disorders
+cardiogenic shock	Cardiac disorders
+dizziness	Vascular disorders
+dizziness	Cardiac disorders
+dizziness	Nervous system disorders
+uveitis	Eye disorders
+uveitis	Immune system disorders
+autonomic nervous system imbalance	General disorders and administration site conditions
+autonomic nervous system imbalance	Vascular disorders
+autonomic nervous system imbalance	Nervous system disorders
+thrombocytopenia	Blood and lymphatic system disorders
+breast discharge	Reproductive system and breast disorders
+myopathy	Musculoskeletal and connective tissue disorders
+hypoaesthesia	Nervous system disorders
+nuchal rigidity	Musculoskeletal and connective tissue disorders
+nuchal rigidity	Nervous system disorders
+corneal erosion	Eye disorders
+pupils unequal	Eye disorders
+pupils unequal	Nervous system disorders
+asthma	Immune system disorders
+asthma	Respiratory, thoracic and mediastinal disorders
+unintended pregnancy	Pregnancy, puerperium and perinatal conditions
+dysarthria	Psychiatric disorders
+dysarthria	Nervous system disorders
+cerebral infarction	Vascular disorders
+cerebral infarction	Nervous system disorders
+hyperphosphataemia	Metabolism and nutrition disorders
+optic neuritis	Eye disorders
+optic neuritis	Immune system disorders
+optic neuritis	Nervous system disorders
+dysphagia	Gastrointestinal disorders
+sepsis	Infections and infestations
+muscle relaxant therapy	Surgical and medical procedures
+memory impairment	Psychiatric disorders
+memory impairment	Nervous system disorders
+blood urine present	Investigations
+amnesia	Psychiatric disorders
+amnesia	Nervous system disorders
+sensory loss	Nervous system disorders
+eye irritation	Eye disorders
+lymphopenia	Blood and lymphatic system disorders
+retinal detachment	Eye disorders
+retinal detachment	Injury, poisoning and procedural complications
+abdominal discomfort	Gastrointestinal disorders
+thinking abnormal	Psychiatric disorders
+thinking abnormal	Nervous system disorders
+affect lability	Psychiatric disorders
+skin mass	Skin and subcutaneous tissue disorders
+application site erythema	General disorders and administration site conditions
+application site erythema	Skin and subcutaneous tissue disorders
+application site erythema	Injury, poisoning and procedural complications
+vaginal discharge	Reproductive system and breast disorders
+dental caries	Gastrointestinal disorders
+glycosuria	Renal and urinary disorders
+bipolar i disorder	Psychiatric disorders
+agitation	Psychiatric disorders
+agitation	Nervous system disorders
+periorbital oedema	Eye disorders
+periorbital oedema	Immune system disorders
+periorbital oedema	Skin and subcutaneous tissue disorders
+eczema	Skin and subcutaneous tissue disorders
+migraine	Vascular disorders
+migraine	Nervous system disorders
+paresis	Nervous system disorders
+white blood cell count increased	Investigations
+sleep apnoea syndrome	Respiratory, thoracic and mediastinal disorders
+sleep apnoea syndrome	Psychiatric disorders
+sleep apnoea syndrome	Nervous system disorders
+bronchial hyperreactivity	Respiratory, thoracic and mediastinal disorders
+depressed mood	Psychiatric disorders
+lung disorder	Respiratory, thoracic and mediastinal disorders
+hyperventilation	Respiratory, thoracic and mediastinal disorders
+hyperventilation	Psychiatric disorders
+anaemia megaloblastic	Metabolism and nutrition disorders
+anaemia megaloblastic	Blood and lymphatic system disorders
+coronary artery disease	Vascular disorders
+coronary artery disease	Cardiac disorders
+altered state of consciousness	Psychiatric disorders
+altered state of consciousness	Nervous system disorders
+oropharyngeal pain	Gastrointestinal disorders
+oropharyngeal pain	Respiratory, thoracic and mediastinal disorders
+pigmentation disorder	Skin and subcutaneous tissue disorders
+hepatic failure	Hepatobiliary disorders
+tetany	Metabolism and nutrition disorders
+tetany	Musculoskeletal and connective tissue disorders
+tetany	Endocrine disorders
+crying	General disorders and administration site conditions
+crying	Psychiatric disorders
+crying	Nervous system disorders
+crying	Injury, poisoning and procedural complications
+myelitis	Infections and infestations
+myelitis	Nervous system disorders
+tubulointerstitial nephritis	Renal and urinary disorders
+muscular weakness	Musculoskeletal and connective tissue disorders
+muscular weakness	Nervous system disorders
+muscle atrophy	Musculoskeletal and connective tissue disorders
+muscle atrophy	Nervous system disorders
+enuresis	Psychiatric disorders
+enuresis	Renal and urinary disorders
+nail disorder	Skin and subcutaneous tissue disorders
+trismus	Musculoskeletal and connective tissue disorders
+trismus	Nervous system disorders
+photopsia	Eye disorders
+photopsia	Nervous system disorders
+pancreatitis acute	Gastrointestinal disorders
+breast enlargement	Reproductive system and breast disorders
+major depression	Psychiatric disorders
+hyperpathia	Nervous system disorders
+supraventricular tachycardia	Cardiac disorders
+fluid overload	Metabolism and nutrition disorders
+fluid overload	Cardiac disorders
+acute myocardial infarction	Vascular disorders
+acute myocardial infarction	Cardiac disorders
+tooth infection	Gastrointestinal disorders
+tooth infection	Infections and infestations
+hypermagnesaemia	Metabolism and nutrition disorders
+labyrinthitis	Infections and infestations
+labyrinthitis	Ear and labyrinth disorders
+hair colour changes	Skin and subcutaneous tissue disorders
+hepatic necrosis	Hepatobiliary disorders
+jaundice cholestatic	Hepatobiliary disorders
+urine output increased	Investigations
+throat irritation	Gastrointestinal disorders
+throat irritation	Respiratory, thoracic and mediastinal disorders
+prothrombin level increased	Investigations
+eye haemorrhage	Eye disorders
+eye haemorrhage	Vascular disorders
+ulcerative keratitis	Eye disorders
+ulcerative keratitis	Immune system disorders
+glaucoma	Eye disorders
+gingival bleeding	Gastrointestinal disorders
+gingival bleeding	Vascular disorders
+respiration abnormal	Respiratory, thoracic and mediastinal disorders
+deafness	Ear and labyrinth disorders
+dry mouth	Gastrointestinal disorders
+myoclonus	Nervous system disorders
+cerebrovascular accident	Vascular disorders
+cerebrovascular accident	Nervous system disorders
+toxic epidermal necrolysis	Immune system disorders
+toxic epidermal necrolysis	Skin and subcutaneous tissue disorders
+toxic epidermal necrolysis	Infections and infestations
+toxic epidermal necrolysis	Injury, poisoning and procedural complications
+orthostatic hypotension	Vascular disorders
+orthostatic hypotension	Nervous system disorders
+procedural pain	General disorders and administration site conditions
+procedural pain	Injury, poisoning and procedural complications
+oesophageal spasm	Gastrointestinal disorders
+chronic obstructive pulmonary disease	Respiratory, thoracic and mediastinal disorders
+hyperreflexia	Nervous system disorders
+suicide attempt	Psychiatric disorders
+atrioventricular block	Cardiac disorders
+nervous system disorder	Nervous system disorders
+rash generalised	Skin and subcutaneous tissue disorders
+impaired gastric emptying	Gastrointestinal disorders
+mucous membrane disorder	General disorders and administration site conditions
+cerebrovascular disorder	Vascular disorders
+cerebrovascular disorder	Nervous system disorders
+disturbance in sexual arousal	Psychiatric disorders
+hiatus hernia	Gastrointestinal disorders
+hiatus hernia	Respiratory, thoracic and mediastinal disorders
+lipodystrophy acquired	Metabolism and nutrition disorders
+lipodystrophy acquired	Skin and subcutaneous tissue disorders
+bruxism	Gastrointestinal disorders
+bruxism	Psychiatric disorders
+torticollis	Musculoskeletal and connective tissue disorders
+torticollis	Nervous system disorders
+back pain	Musculoskeletal and connective tissue disorders
+coagulopathy	Blood and lymphatic system disorders
+gamma-glutamyltransferase increased	Investigations
+rhinorrhoea	Respiratory, thoracic and mediastinal disorders
+night blindness	Metabolism and nutrition disorders
+night blindness	Eye disorders
+thrombosis	Vascular disorders
+bone disorder	Musculoskeletal and connective tissue disorders
+vulvovaginal dryness	Reproductive system and breast disorders
+dysphonia	Respiratory, thoracic and mediastinal disorders
+dysphonia	Psychiatric disorders
+dysphonia	Nervous system disorders
+hypothyroidism	Metabolism and nutrition disorders
+hypothyroidism	Endocrine disorders
+drug hypersensitivity	Immune system disorders
+oropharyngeal discomfort	Gastrointestinal disorders
+oropharyngeal discomfort	Respiratory, thoracic and mediastinal disorders
+hypertriglyceridaemia	Metabolism and nutrition disorders
+accommodation disorder	Eye disorders
+pharyngeal oedema	Immune system disorders
+pharyngeal oedema	Skin and subcutaneous tissue disorders
+pharyngeal oedema	Respiratory, thoracic and mediastinal disorders
+nervousness	Psychiatric disorders
+cushing's syndrome	Metabolism and nutrition disorders
+cushing's syndrome	Endocrine disorders
+cushing's syndrome	Vascular disorders
+cushing's syndrome	Psychiatric disorders
+muscle spasms	Musculoskeletal and connective tissue disorders
+vision blurred	Eye disorders
+vision blurred	Nervous system disorders
+nausea	Gastrointestinal disorders
+shock	Vascular disorders
+tenderness	General disorders and administration site conditions
+neck pain	Musculoskeletal and connective tissue disorders
+application site pruritus	General disorders and administration site conditions
+application site pruritus	Skin and subcutaneous tissue disorders
+application site pruritus	Injury, poisoning and procedural complications
+respiratory depression	Respiratory, thoracic and mediastinal disorders
+respiratory depression	Nervous system disorders
+sciatica	Musculoskeletal and connective tissue disorders
+sciatica	Nervous system disorders
+dermatitis exfoliative	Immune system disorders
+dermatitis exfoliative	Skin and subcutaneous tissue disorders
+depression	Psychiatric disorders
+orgasm abnormal	Reproductive system and breast disorders
+orgasm abnormal	Psychiatric disorders
+cardiac failure congestive	Cardiac disorders
+therapeutic response unexpected	General disorders and administration site conditions
+influenza like illness	General disorders and administration site conditions
+bleeding time prolonged	Investigations
+tremor	Nervous system disorders
+intestinal perforation	Gastrointestinal disorders
+blood prolactin increased	Investigations
+tendon disorder	Musculoskeletal and connective tissue disorders
+face oedema	Immune system disorders
+face oedema	General disorders and administration site conditions
+face oedema	Skin and subcutaneous tissue disorders
+acne	Skin and subcutaneous tissue disorders
+antisocial behaviour	Psychiatric disorders
+micturition disorder	Renal and urinary disorders
+feeling jittery	General disorders and administration site conditions
+cognitive disorder	Psychiatric disorders
+cognitive disorder	Nervous system disorders
+skin irritation	Skin and subcutaneous tissue disorders
+urethral disorder	Renal and urinary disorders
+gastrointestinal ulcer	Gastrointestinal disorders
+polyneuropathy	Nervous system disorders
+psoriasis	Immune system disorders
+psoriasis	Skin and subcutaneous tissue disorders
+infection	Infections and infestations
+cystitis noninfective	Renal and urinary disorders
+hypertonia	Musculoskeletal and connective tissue disorders
+hypertonia	Nervous system disorders
+prostatitis	Reproductive system and breast disorders
+urethritis noninfective	Renal and urinary disorders
+angina pectoris	Vascular disorders
+angina pectoris	Cardiac disorders
+hypersomnia	Psychiatric disorders
+hypersomnia	Nervous system disorders
+wound infection	Infections and infestations
+wound infection	Injury, poisoning and procedural complications
+injection site bruising	General disorders and administration site conditions
+injection site bruising	Vascular disorders
+injection site bruising	Skin and subcutaneous tissue disorders
+injection site bruising	Injury, poisoning and procedural complications
+eyelid oedema	Eye disorders
+eyelid oedema	Immune system disorders
+eyelid oedema	Skin and subcutaneous tissue disorders
+neuroleptic malignant syndrome	Musculoskeletal and connective tissue disorders
+neuroleptic malignant syndrome	General disorders and administration site conditions
+neuroleptic malignant syndrome	Nervous system disorders
+neuroleptic malignant syndrome	Injury, poisoning and procedural complications
+urinary hesitation	Renal and urinary disorders
+respiratory disorder	Respiratory, thoracic and mediastinal disorders
+haemoglobin decreased	Investigations
+tension	Psychiatric disorders
+hypercalciuria	Metabolism and nutrition disorders
+hypercalciuria	Endocrine disorders
+hypercalciuria	Renal and urinary disorders
+serum sickness	Immune system disorders
+serum sickness	Injury, poisoning and procedural complications
+azotaemia	Renal and urinary disorders
+nephrotic syndrome	Renal and urinary disorders
+psychomotor retardation	Psychiatric disorders
+discomfort	General disorders and administration site conditions
+thrombophlebitis	Vascular disorders
+fatigue	General disorders and administration site conditions
+increased tendency to bruise	Vascular disorders
+increased tendency to bruise	Blood and lymphatic system disorders
+increased tendency to bruise	Skin and subcutaneous tissue disorders
+monocytosis	Blood and lymphatic system disorders
+hypoaesthesia oral	Gastrointestinal disorders
+hypoaesthesia oral	Nervous system disorders
+arthralgia	Musculoskeletal and connective tissue disorders
+arrhythmia supraventricular	Cardiac disorders
+electrolyte imbalance	Metabolism and nutrition disorders
+cardiac disorder	Cardiac disorders
+application site vesicles	General disorders and administration site conditions
+application site vesicles	Skin and subcutaneous tissue disorders
+application site vesicles	Injury, poisoning and procedural complications
+pericardial effusion	Cardiac disorders
+bone pain	Musculoskeletal and connective tissue disorders
+generalised oedema	Metabolism and nutrition disorders
+generalised oedema	General disorders and administration site conditions
+myocarditis	Cardiac disorders
+faecaloma	Gastrointestinal disorders
+acute coronary syndrome	Vascular disorders
+acute coronary syndrome	Cardiac disorders
+haematoma	Vascular disorders
+dizziness postural	Vascular disorders
+dizziness postural	Cardiac disorders
+dizziness postural	Nervous system disorders
+hyperglycaemia	Metabolism and nutrition disorders
+hyperglycaemia	Endocrine disorders
+temperature intolerance	General disorders and administration site conditions
+pleurisy	Respiratory, thoracic and mediastinal disorders
+irritability	General disorders and administration site conditions
+irritability	Psychiatric disorders
+skin burning sensation	Skin and subcutaneous tissue disorders
+skin burning sensation	Nervous system disorders
+lymphocyte count decreased	Investigations
+tooth disorder	Gastrointestinal disorders
+flushing	General disorders and administration site conditions
+flushing	Vascular disorders
+flushing	Skin and subcutaneous tissue disorders
+cardiac murmur	Investigations
+gastrointestinal pain	Gastrointestinal disorders
+salivary hypersecretion	Gastrointestinal disorders
+dysaesthesia	Nervous system disorders
+blood potassium decreased	Investigations
+interstitial lung disease	Immune system disorders
+interstitial lung disease	Respiratory, thoracic and mediastinal disorders
+duodenal ulcer	Gastrointestinal disorders
+eye infection	Eye disorders
+eye infection	Infections and infestations
+chills	Musculoskeletal and connective tissue disorders
+chills	General disorders and administration site conditions
+abnormal behaviour	Psychiatric disorders
+punctate keratitis	Eye disorders
+hypomania	Psychiatric disorders
+muscle twitching	Musculoskeletal and connective tissue disorders
+melaena	Gastrointestinal disorders
+melaena	Vascular disorders
+hypokalaemia	Metabolism and nutrition disorders
+vaginal haemorrhage	Reproductive system and breast disorders
+vaginal haemorrhage	Vascular disorders
+malignant melanoma	Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+malignant melanoma	Skin and subcutaneous tissue disorders
+anaemia	Blood and lymphatic system disorders
+alopecia	Skin and subcutaneous tissue disorders
+emotional disorder	Psychiatric disorders
+urine abnormality	Renal and urinary disorders
+hypercholesterolaemia	Metabolism and nutrition disorders
+breath sounds abnormal	Investigations
+hemiplegia	Nervous system disorders
+eye pruritus	Eye disorders
+purpura	Vascular disorders
+purpura	Blood and lymphatic system disorders
+purpura	Skin and subcutaneous tissue disorders
+menopausal symptoms	Reproductive system and breast disorders
+skin hypertrophy	Skin and subcutaneous tissue disorders
+staphylococcal infection	Infections and infestations
+stomatitis	Gastrointestinal disorders
+dementia	Psychiatric disorders
+dementia	Nervous system disorders
+pallor	General disorders and administration site conditions
+pallor	Vascular disorders
+pallor	Skin and subcutaneous tissue disorders
+laryngeal oedema	Immune system disorders
+laryngeal oedema	Skin and subcutaneous tissue disorders
+laryngeal oedema	Respiratory, thoracic and mediastinal disorders
+faecalith	Gastrointestinal disorders
+hangover	General disorders and administration site conditions
+prostatic disorder	Reproductive system and breast disorders
+retinal degeneration	Eye disorders
+euphoric mood	Psychiatric disorders
+white blood cell count decreased	Investigations
+epigastric discomfort	Gastrointestinal disorders
+sinus tachycardia	Cardiac disorders
+throat tightness	Respiratory, thoracic and mediastinal disorders
+throat tightness	Psychiatric disorders
+hyperthyroidism	Metabolism and nutrition disorders
+hyperthyroidism	Endocrine disorders
+peripheral motor neuropathy	Nervous system disorders
+road traffic accident	Injury, poisoning and procedural complications
+rash maculo-papular	Skin and subcutaneous tissue disorders
+cholecystitis	Hepatobiliary disorders
+retinal haemorrhage	Eye disorders
+retinal haemorrhage	Vascular disorders
+amenorrhoea	Reproductive system and breast disorders
+amenorrhoea	Endocrine disorders
+rash	Skin and subcutaneous tissue disorders
+vascular headache	Vascular disorders
+vascular headache	Nervous system disorders
+thrombocytosis	Blood and lymphatic system disorders
+respiratory failure	Metabolism and nutrition disorders
+respiratory failure	Respiratory, thoracic and mediastinal disorders
+hyperuricaemia	Metabolism and nutrition disorders
+malaise	General disorders and administration site conditions
+asocial behaviour	Psychiatric disorders
+post procedural haemorrhage	Vascular disorders
+post procedural haemorrhage	Injury, poisoning and procedural complications
+dyspepsia	Gastrointestinal disorders
+alcohol intolerance	Metabolism and nutrition disorders
+hypercalcaemia	Metabolism and nutrition disorders
+hypercalcaemia	Endocrine disorders
+gastrointestinal perforation	Gastrointestinal disorders
+drug ineffective	General disorders and administration site conditions
+abdominal pain	Gastrointestinal disorders
+congenital eye disorder	Eye disorders
+congenital eye disorder	Congenital, familial and genetic disorders
+angioedema	Immune system disorders
+angioedema	Skin and subcutaneous tissue disorders
+angioedema	Respiratory, thoracic and mediastinal disorders
+retinal disorder	Eye disorders
+bladder pain	Renal and urinary disorders
+contusion	Musculoskeletal and connective tissue disorders
+contusion	Vascular disorders
+contusion	Skin and subcutaneous tissue disorders
+contusion	Injury, poisoning and procedural complications
+septic shock	Vascular disorders
+septic shock	Infections and infestations
+nightmare	Psychiatric disorders
+blood pressure increased	Investigations
+pulmonary fibrosis	Respiratory, thoracic and mediastinal disorders
+eye pain	Eye disorders
+intestinal obstruction	Gastrointestinal disorders
+anorectal discomfort	Gastrointestinal disorders
+chest discomfort	General disorders and administration site conditions
+chest discomfort	Respiratory, thoracic and mediastinal disorders
+chest discomfort	Cardiac disorders
+akathisia	Psychiatric disorders
+akathisia	Nervous system disorders
+extrapyramidal disorder	Nervous system disorders
+faeces discoloured	Gastrointestinal disorders
+blepharitis	Eye disorders
+blepharitis	Skin and subcutaneous tissue disorders
+enterocolitis	Gastrointestinal disorders
+petechiae	Vascular disorders
+petechiae	Blood and lymphatic system disorders
+petechiae	Skin and subcutaneous tissue disorders
+dysuria	Renal and urinary disorders
+oedema peripheral	Metabolism and nutrition disorders
+oedema peripheral	General disorders and administration site conditions
+oedema peripheral	Cardiac disorders
+haemorrhage	Vascular disorders
+oral herpes	Gastrointestinal disorders
+oral herpes	Infections and infestations
+erythema nodosum	Immune system disorders
+erythema nodosum	Skin and subcutaneous tissue disorders
+pruritus generalised	Skin and subcutaneous tissue disorders
+injection site inflammation	General disorders and administration site conditions
+injection site inflammation	Injury, poisoning and procedural complications
+mood swings	Psychiatric disorders
+anorgasmia	Psychiatric disorders
+micturition urgency	Renal and urinary disorders
+carpal tunnel syndrome	Nervous system disorders
+infestation	Skin and subcutaneous tissue disorders
+infestation	Infections and infestations
+hypotension	Vascular disorders
+eructation	Gastrointestinal disorders
+nasal dryness	Respiratory, thoracic and mediastinal disorders
+intraocular pressure increased	Investigations
+photosensitivity reaction	Skin and subcutaneous tissue disorders
+delusion	Psychiatric disorders
+stridor	Respiratory, thoracic and mediastinal disorders
+liver function test abnormal	Investigations
+infarction	Vascular disorders
+lymphoedema	Vascular disorders
+lymphoedema	Blood and lymphatic system disorders
+ataxia	General disorders and administration site conditions
+ataxia	Nervous system disorders
+gingival pain	Gastrointestinal disorders
+iritis	Eye disorders
+iritis	Immune system disorders
+sunburn	Skin and subcutaneous tissue disorders
+sunburn	Injury, poisoning and procedural complications
+catheter site pain	General disorders and administration site conditions
+catheter site pain	Injury, poisoning and procedural complications
+haemorrhagic disorder	Vascular disorders
+haemorrhagic disorder	Blood and lymphatic system disorders
+libido increased	Reproductive system and breast disorders
+libido increased	Psychiatric disorders
+suicidal ideation	Psychiatric disorders
+blood urea increased	Investigations
+arteriosclerosis	Vascular disorders
+derealisation	Psychiatric disorders
+visual acuity reduced	Eye disorders
+visual acuity reduced	Nervous system disorders
+fluid retention	Metabolism and nutrition disorders
+fluid retention	Renal and urinary disorders
+dyspnoea exertional	Respiratory, thoracic and mediastinal disorders
+dyspnoea exertional	Cardiac disorders
+mouth ulceration	Gastrointestinal disorders
+erectile dysfunction	Reproductive system and breast disorders
+erectile dysfunction	Psychiatric disorders
+hyperbilirubinaemia	Hepatobiliary disorders
+hyperbilirubinaemia	Metabolism and nutrition disorders
+hyperbilirubinaemia	Blood and lymphatic system disorders
+musculoskeletal discomfort	Musculoskeletal and connective tissue disorders
+bacterial infection	Infections and infestations
+libido decreased	Reproductive system and breast disorders
+libido decreased	Psychiatric disorders
+tachypnoea	Respiratory, thoracic and mediastinal disorders
+electrocardiogram qt prolonged	Investigations
+retroperitoneal haemorrhage	Gastrointestinal disorders
+retroperitoneal haemorrhage	Vascular disorders
+blood albumin decreased	Investigations
+haematochezia	Gastrointestinal disorders
+haematochezia	Vascular disorders
+iron deficiency anaemia	Metabolism and nutrition disorders
+iron deficiency anaemia	Blood and lymphatic system disorders
+gynaecomastia	Reproductive system and breast disorders
+gynaecomastia	Endocrine disorders
+pulmonary hypertension	Vascular disorders
+pulmonary hypertension	Respiratory, thoracic and mediastinal disorders
+sticky skin	Skin and subcutaneous tissue disorders
+panic attack	Psychiatric disorders
+epistaxis	Vascular disorders
+epistaxis	Respiratory, thoracic and mediastinal disorders
+conjunctival hyperaemia	Eye disorders
+neurosis	Psychiatric disorders
+inflammation	General disorders and administration site conditions
+conjunctival oedema	Eye disorders
+cerebellar syndrome	Nervous system disorders
+tendonitis	Musculoskeletal and connective tissue disorders
+tendonitis	Injury, poisoning and procedural complications
+tracheobronchitis	Infections and infestations
+tracheobronchitis	Respiratory, thoracic and mediastinal disorders
+aspartate aminotransferase increased	Investigations
+skin lesion	Skin and subcutaneous tissue disorders
+osteonecrosis	Musculoskeletal and connective tissue disorders
+osteonecrosis	Vascular disorders
+productive cough	Respiratory, thoracic and mediastinal disorders
+proteinuria	Renal and urinary disorders
+tongue discolouration	Gastrointestinal disorders
+pruritus	Skin and subcutaneous tissue disorders
+libido disorder	Reproductive system and breast disorders
+libido disorder	Psychiatric disorders
+hair texture abnormal	Skin and subcutaneous tissue disorders
+vasculitis	Immune system disorders
+vasculitis	Vascular disorders
+acute respiratory distress syndrome	Respiratory, thoracic and mediastinal disorders
+seasonal allergy	Eye disorders
+seasonal allergy	Immune system disorders
+seasonal allergy	Respiratory, thoracic and mediastinal disorders
+exophthalmos	Eye disorders
+exophthalmos	Endocrine disorders
+deep vein thrombosis	Vascular disorders
+muscle rigidity	Musculoskeletal and connective tissue disorders
+muscle rigidity	Nervous system disorders
+hirsutism	Endocrine disorders
+hirsutism	Skin and subcutaneous tissue disorders
+rash papular	Skin and subcutaneous tissue disorders
+cervix disorder	Reproductive system and breast disorders
+thyroid disorder	Endocrine disorders
+proctalgia	Gastrointestinal disorders
+vulvovaginal candidiasis	Reproductive system and breast disorders
+vulvovaginal candidiasis	Infections and infestations
+hypocalcaemia	Metabolism and nutrition disorders
+night sweats	General disorders and administration site conditions
+night sweats	Skin and subcutaneous tissue disorders
+hypernatraemia	Metabolism and nutrition disorders
+conjunctivitis allergic	Eye disorders
+conjunctivitis allergic	Immune system disorders
+vulvovaginitis	Reproductive system and breast disorders
+vulvovaginitis	Infections and infestations
+visual impairment	Eye disorders
+ischaemia	Vascular disorders

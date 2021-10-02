@@ -1,0 +1,1437 @@
+SideEffectTerm	SecondLevelMedDRATerm
+glucose tolerance impaired	Glucose metabolism disorders (incl diabetes mellitus)
+functional gastrointestinal disorder	Gastrointestinal conditions NEC
+aggression	Personality disorders and disturbances in behaviour
+strangury	Urinary tract signs and symptoms
+transient ischaemic attack	Central nervous system vascular disorders
+transient ischaemic attack	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+cardiomegaly	Myocardial disorders
+mania	Manic and bipolar mood disorders and disturbances
+proctitis	Gastrointestinal inflammatory conditions
+disorientation	Deliria (incl confusion)
+disorientation	Neurological disorders NEC
+blood bilirubin increased	Hepatobiliary investigations
+blood lactate dehydrogenase increased	Enzyme investigations NEC
+panophthalmitis	Ocular infections, irritations and inflammations
+wound secretion	Injuries NEC
+wound secretion	General system disorders NEC
+eye disorder	Eye disorders NEC
+periodontitis	Dental and gingival conditions
+periodontitis	Infections - pathogen unspecified
+candida infection	Fungal infectious disorders
+atrioventricular block complete	Cardiac arrhythmias
+gravitational oedema	General system disorders NEC
+gravitational oedema	Heart failures
+bipolar disorder	Manic and bipolar mood disorders and disturbances
+jaundice	Hepatic and hepatobiliary disorders
+jaundice	Epidermal and dermal conditions
+jaundice	Haemolyses and related conditions
+miosis	Ocular neuromuscular disorders
+miosis	Neurological disorders NEC
+colitis ulcerative	Immune disorders NEC
+colitis ulcerative	Gastrointestinal inflammatory conditions
+asthenia	General system disorders NEC
+neurotoxicity	Exposures, chemical injuries and poisoning
+neurotoxicity	Neurological disorders NEC
+decreased appetite	General system disorders NEC
+decreased appetite	Appetite and general nutritional disorders
+hypokinesia	Movement disorders (incl parkinsonism)
+sinus headache	Respiratory tract signs and symptoms
+sinus headache	Headaches
+polycythaemia	Red blood cell disorders
+haemorrhoids	Gastrointestinal vascular conditions
+haemorrhoids	Venous varices
+eye discharge	Ocular infections, irritations and inflammations
+fungal skin infection	Skin and subcutaneous tissue infections and infestations
+fungal skin infection	Fungal infectious disorders
+gait disturbance	General system disorders NEC
+gait disturbance	Neurological disorders NEC
+corneal lesion	Anterior eye structural change, deposit and degeneration
+tongue ulceration	Tongue conditions
+ventricular tachycardia	Cardiac arrhythmias
+vulvovaginal mycotic infection	Female reproductive tract infections and inflammations
+vulvovaginal mycotic infection	Fungal infectious disorders
+rectal haemorrhage	Gastrointestinal haemorrhages NEC
+rectal haemorrhage	Vascular haemorrhagic disorders
+protein total decreased	Protein and chemistry analyses NEC
+chromaturia	Urinary tract signs and symptoms
+pulmonary oedema	Heart failures
+pulmonary oedema	Lower respiratory tract disorders (excl obstruction and infection)
+tonsillitis	Respiratory tract infections
+tonsillitis	Infections - pathogen unspecified
+bundle branch block	Cardiac arrhythmias
+leukopenia	White blood cell disorders
+ventricular fibrillation	Cardiac arrhythmias
+breast pain	Breast disorders
+skin cancer	Skin neoplasms malignant and unspecified
+hypomagnesaemia	Bone, calcium, magnesium and phosphorus metabolism disorders
+rhinitis allergic	Upper respiratory tract disorders (excl infections)
+rhinitis allergic	Allergic conditions
+movement disorder	Movement disorders (incl parkinsonism)
+ascites	Hepatic and hepatobiliary disorders
+ascites	Peritoneal and retroperitoneal conditions
+ascites	Heart failures
+tenosynovitis	Tendon, ligament and cartilage disorders
+tongue disorder	Tongue conditions
+abdominal pain lower	Gastrointestinal signs and symptoms
+rheumatoid arthritis	Joint disorders
+rheumatoid arthritis	Autoimmune disorders
+anorectal disorder	Anal and rectal conditions NEC
+arthritis	Joint disorders
+neutrophil count decreased	Haematology investigations (incl blood groups)
+panic reaction	Anxiety disorders and symptoms
+torsade de pointes	Cardiac arrhythmias
+hyperkeratosis	Cornification and dystrophic skin disorders
+hypoglycaemia	Glucose metabolism disorders (incl diabetes mellitus)
+nodule	Tissue disorders NEC
+hyporeflexia	Neurological disorders NEC
+skin hyperpigmentation	Pigmentation disorders
+hyponatraemia	Electrolyte and fluid balance conditions
+viral infection	Viral infectious disorders
+peripheral coldness	General system disorders NEC
+peripheral coldness	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+dry skin	Epidermal and dermal conditions
+skin papilloma	Viral infectious disorders
+skin papilloma	Cutaneous neoplasms benign
+injection site reaction	Administration site reactions
+somnolence	Sleep disorders and disturbances
+somnolence	Neurological disorders NEC
+thyroid neoplasm	Thyroid gland disorders
+thyroid neoplasm	Endocrine neoplasms malignant and unspecified
+hair disorder	Skin appendage conditions
+depressed level of consciousness	Neurological disorders NEC
+alveolitis allergic	Allergic conditions
+alveolitis allergic	Lower respiratory tract disorders (excl obstruction and infection)
+basal cell carcinoma	Skin neoplasms malignant and unspecified
+disseminated intravascular coagulation	Embolism and thrombosis
+disseminated intravascular coagulation	Coagulopathies and bleeding diatheses (excl thrombocytopenic)
+hypoxia	Respiratory disorders NEC
+loss of consciousness	Neurological disorders NEC
+opportunistic infection	Infections - pathogen unspecified
+paraesthesia	Neurological disorders NEC
+exostosis	Bone disorders (excl congenital and fractures)
+nasal congestion	Upper respiratory tract disorders (excl infections)
+thrombotic thrombocytopenic purpura	Vascular haemorrhagic disorders
+thrombotic thrombocytopenic purpura	Skin vascular abnormalities
+thrombotic thrombocytopenic purpura	Platelet disorders
+completed suicide	Fatal outcomes
+completed suicide	Suicidal and self-injurious behaviours NEC
+constipation	Gastrointestinal motility and defaecation conditions
+burning sensation	General system disorders NEC
+burning sensation	Neurological disorders NEC
+nephrolithiasis	Urolithiases
+choreoathetosis	Movement disorders (incl parkinsonism)
+emphysema	Lower respiratory tract disorders (excl obstruction and infection)
+leukoderma	Pigmentation disorders
+orchitis noninfective	Male reproductive tract infections and inflammations
+lacrimal structural disorder	Anterior eye structural change, deposit and degeneration
+bacteraemia	Infections - pathogen unspecified
+ventricular extrasystoles	Cardiac arrhythmias
+feeling abnormal	General system disorders NEC
+pain of skin	Epidermal and dermal conditions
+osteoarthritis	Joint disorders
+regurgitation	Gastrointestinal signs and symptoms
+prothrombin level decreased	Haematology investigations (incl blood groups)
+ventricular arrhythmia	Cardiac arrhythmias
+hepatitis cholestatic	Hepatic and hepatobiliary disorders
+genital candidiasis	Reproductive tract disorders NEC
+genital candidiasis	Fungal infectious disorders
+peptic ulcer	Gastrointestinal ulceration and perforation
+cardiovascular disorder	Cardiac disorder signs and symptoms
+cardiovascular disorder	Vascular disorders NEC
+mastitis	Breast disorders
+mastitis	Infections - pathogen unspecified
+tracheitis	Respiratory tract infections
+tracheitis	Infections - pathogen unspecified
+dyskinesia	Movement disorders (incl parkinsonism)
+pyuria	Urinary tract signs and symptoms
+pyuria	Infections - pathogen unspecified
+anuria	Renal disorders (excl nephropathies)
+pharyngitis	Oral soft tissue conditions
+pharyngitis	Respiratory tract infections
+pharyngitis	Infections - pathogen unspecified
+galactorrhoea	Hypothalamus and pituitary gland disorders
+galactorrhoea	Breast disorders
+cheilitis	Oral soft tissue conditions
+cheilitis	Epidermal and dermal conditions
+cardiac arrest	Cardiac arrhythmias
+ejaculation failure	Sexual function and fertility disorders
+colitis	Gastrointestinal inflammatory conditions
+anxiety	Anxiety disorders and symptoms
+pneumonia	Respiratory tract infections
+pneumonia	Infections - pathogen unspecified
+hallucination	Disturbances in thinking and perception
+bronchitis	Respiratory tract infections
+bronchitis	Infections - pathogen unspecified
+myositis	Muscle disorders
+varicose vein	Venous varices
+pleuritic pain	Respiratory tract signs and symptoms
+injection site swelling	Administration site reactions
+body temperature decreased	Physical examination and organ system status topics
+hyperaesthesia	Neurological disorders NEC
+scleritis	Immune disorders NEC
+scleritis	Ocular infections, irritations and inflammations
+application site irritation	Administration site reactions
+serotonin syndrome	Muscle disorders
+serotonin syndrome	Exposures, chemical injuries and poisoning
+serotonin syndrome	Neuromuscular disorders
+coordination abnormal	Neurological disorders NEC
+irritable bowel syndrome	Somatic symptom and related disorders
+irritable bowel syndrome	Gastrointestinal motility and defaecation conditions
+skin atrophy	Cornification and dystrophic skin disorders
+change of bowel habit	Gastrointestinal motility and defaecation conditions
+disturbance in attention	Cognitive and attention disorders and disturbances
+disturbance in attention	Mental impairment disorders
+ulcer	Tissue disorders NEC
+restless legs syndrome	Muscle disorders
+restless legs syndrome	Neurological disorders NEC
+dry eye	Eye disorders NEC
+dermatitis	Epidermal and dermal conditions
+optic atrophy	Ocular structural change, deposit and degeneration NEC
+bradykinesia	Movement disorders (incl parkinsonism)
+haematemesis	Gastrointestinal haemorrhages NEC
+haematemesis	Vascular haemorrhagic disorders
+hostility	Personality disorders and disturbances in behaviour
+endophthalmitis	Infections - pathogen unspecified
+endophthalmitis	Ocular infections, irritations and inflammations
+chest pain	Respiratory tract signs and symptoms
+chest pain	Coronary artery disorders
+chest pain	General system disorders NEC
+sputum increased	Respiratory disorders NEC
+fungal infection	Fungal infectious disorders
+hypochloraemia	Electrolyte and fluid balance conditions
+conversion disorder	Somatic symptom and related disorders
+actinic keratosis	Cornification and dystrophic skin disorders
+dermatitis atopic	Epidermal and dermal conditions
+dermatitis atopic	Allergic conditions
+uterine leiomyoma	Reproductive neoplasms female benign
+uterine leiomyoma	Uterine, pelvic and broad ligament disorders
+encephalopathy	Encephalopathies
+lung infection	Respiratory tract infections
+lung infection	Infections - pathogen unspecified
+electrocardiogram st segment depression	Cardiac and vascular investigations (excl enzyme tests)
+asthenopia	Ocular sensory symptoms NEC
+laryngospasm	Upper respiratory tract disorders (excl infections)
+angle closure glaucoma	Glaucoma and ocular hypertension
+blood creatine phosphokinase increased	Enzyme investigations NEC
+breast tenderness	Breast disorders
+chromatopsia	Vision disorders
+renal failure	Renal disorders (excl nephropathies)
+nasopharyngitis	Respiratory tract infections
+nasopharyngitis	Infections - pathogen unspecified
+foetor hepaticus	Hepatic and hepatobiliary disorders
+foetor hepaticus	Gastrointestinal signs and symptoms
+cerebral haemorrhage	Central nervous system vascular disorders
+cerebral haemorrhage	Vascular haemorrhagic disorders
+furuncle	Skin and subcutaneous tissue infections and infestations
+furuncle	Bacterial infectious disorders
+tension headache	Headaches
+laryngitis	Respiratory tract infections
+laryngitis	Infections - pathogen unspecified
+uterine haemorrhage	Vascular haemorrhagic disorders
+uterine haemorrhage	Uterine, pelvic and broad ligament disorders
+cholelithiasis	Gallbladder disorders
+rhabdomyolysis	Muscle disorders
+blood creatinine increased	Renal and urinary tract investigations and urinalyses
+hypophosphataemia	Bone, calcium, magnesium and phosphorus metabolism disorders
+urine analysis abnormal	Renal and urinary tract investigations and urinalyses
+neoplasm	Miscellaneous and site unspecified neoplasms malignant and unspecified
+balance disorder	Neurological disorders NEC
+erythema	Epidermal and dermal conditions
+haemoptysis	Respiratory disorders NEC
+haemoptysis	Cardiac disorder signs and symptoms
+haemoptysis	Vascular haemorrhagic disorders
+tumour lysis syndrome	Electrolyte and fluid balance conditions
+tumour lysis syndrome	Neoplasm related morbidities
+blood calcium decreased	Water, electrolyte and mineral investigations
+herpes zoster	Viral infectious disorders
+herpes zoster	Skin and subcutaneous tissue infections and infestations
+herpes zoster	Peripheral neuropathies
+hypohidrosis	Skin appendage conditions
+hypohidrosis	General system disorders NEC
+glossitis	Tongue conditions
+salivary gland enlargement	Salivary gland conditions
+lower respiratory tract infection	Respiratory tract infections
+lower respiratory tract infection	Infections - pathogen unspecified
+leukocytosis	White blood cell disorders
+premenstrual syndrome	Mood disorders and disturbances NEC
+premenstrual syndrome	Menstrual cycle and uterine bleeding disorders
+gastrointestinal carcinoma	Malignant and unspecified neoplasms gastrointestinal NEC
+gastrointestinal carcinoma	Gastrointestinal neoplasms malignant and unspecified
+abscess	Infections - pathogen unspecified
+sinusitis	Respiratory tract infections
+sinusitis	Infections - pathogen unspecified
+induration	General system disorders NEC
+ejaculation disorder	Sexual function and fertility disorders
+connective tissue disorder	Connective tissue disorders (excl congenital)
+hot flush	Menopause related conditions
+hot flush	Vascular disorders NEC
+hot flush	General system disorders NEC
+uterine disorder	Uterine, pelvic and broad ligament disorders
+application site paraesthesia	Administration site reactions
+application site paraesthesia	Neurological disorders NEC
+parosmia	Upper respiratory tract disorders (excl infections)
+parosmia	Cranial nerve disorders (excl neoplasms)
+onychomycosis	Skin and subcutaneous tissue infections and infestations
+onychomycosis	Fungal infectious disorders
+liver injury	Hepatic and hepatobiliary disorders
+liver injury	Injuries NEC
+crohn's disease	Immune disorders NEC
+crohn's disease	Gastrointestinal inflammatory conditions
+urinary incontinence	Urinary tract signs and symptoms
+urinary incontinence	Neuromuscular disorders
+clostridium difficile colitis	Gastrointestinal infections
+clostridium difficile colitis	Bacterial infectious disorders
+dyspareunia	Sexual function and fertility disorders
+dyspareunia	Sexual dysfunctions, disturbances and gender identity disorders
+bronchospasm	Bronchial disorders (excl neoplasms)
+bronchospasm	Allergic conditions
+stevens-johnson syndrome	Exposures, chemical injuries and poisoning
+stevens-johnson syndrome	Epidermal and dermal conditions
+stevens-johnson syndrome	Allergic conditions
+stevens-johnson syndrome	Ancillary infectious topics
+syncope	Cardiac disorder signs and symptoms
+syncope	Decreased and nonspecific blood pressure disorders and shock
+syncope	Neurological disorders NEC
+international normalised ratio increased	Haematology investigations (incl blood groups)
+seborrhoeic dermatitis	Epidermal and dermal conditions
+pollakiuria	Urinary tract signs and symptoms
+colitis ischaemic	Gastrointestinal inflammatory conditions
+colitis ischaemic	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+flatulence	Gastrointestinal signs and symptoms
+brain oedema	Injuries NEC
+brain oedema	Increased intracranial pressure and hydrocephalus
+lymphoma	Lymphomas NEC
+rosacea	Skin appendage conditions
+diplopia	Neurological disorders of the eye
+diplopia	Vision disorders
+malnutrition	Appetite and general nutritional disorders
+anaemia macrocytic	Anaemias nonhaemolytic and marrow depression
+anaemia macrocytic	Vitamin related disorders
+rhinitis	Respiratory tract infections
+rhinitis	Infections - pathogen unspecified
+incontinence	Urinary tract signs and symptoms
+incontinence	Gastrointestinal signs and symptoms
+incontinence	Neuromuscular disorders
+hepatocellular injury	Hepatic and hepatobiliary disorders
+blood potassium increased	Water, electrolyte and mineral investigations
+musculoskeletal stiffness	Musculoskeletal and connective tissue disorders NEC
+apraxia	Cognitive and attention disorders and disturbances
+apraxia	Neurological disorders NEC
+endometrial disorder	Uterine, pelvic and broad ligament disorders
+menopause	Age related factors
+cardiomyopathy	Myocardial disorders
+scab	Epidermal and dermal conditions
+cystitis haemorrhagic	Bladder and bladder neck disorders (excl calculi)
+loss of libido	Sexual dysfunctions, disturbances and gender identity disorders
+urticaria	Angioedema and urticaria
+urticaria	Allergic conditions
+hypotonia	Muscle disorders
+hypotonia	Neuromuscular disorders
+cardiac failure	Heart failures
+sneezing	Respiratory tract signs and symptoms
+ecchymosis	Vascular haemorrhagic disorders
+ecchymosis	Coagulopathies and bleeding diatheses (excl thrombocytopenic)
+ecchymosis	Skin vascular abnormalities
+feeling hot	General system disorders NEC
+renal pain	Urinary tract signs and symptoms
+abnormal dreams	Sleep disturbances (incl subtypes)
+abnormal dreams	Sleep disorders and disturbances
+melanosis	Pigmentation disorders
+hyperacusis	Hearing disorders
+hyperacusis	Cranial nerve disorders (excl neoplasms)
+blindness	Neurological disorders of the eye
+blindness	Vision disorders
+personality disorder	Personality disorders and disturbances in behaviour
+aplastic anaemia	Anaemias nonhaemolytic and marrow depression
+endocrine disorder	Endocrine and glandular disorders NEC
+peripheral ischaemia	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+prostate cancer	Prostatic disorders (excl infections and inflammations)
+prostate cancer	Reproductive neoplasms male malignant and unspecified
+neuritis	Peripheral neuropathies
+pruritus genital	Epidermal and dermal conditions
+pruritus genital	Reproductive tract disorders NEC
+flat affect	Mood disorders and disturbances NEC
+liver disorder	Hepatic and hepatobiliary disorders
+infusion site reaction	Administration site reactions
+polyuria	Urinary tract signs and symptoms
+extravasation	General system disorders NEC
+subarachnoid haemorrhage	Injuries NEC
+subarachnoid haemorrhage	Central nervous system vascular disorders
+subarachnoid haemorrhage	Vascular haemorrhagic disorders
+lymphadenopathy	Spleen, lymphatic and reticuloendothelial system disorders
+cyanosis	Respiratory disorders NEC
+cyanosis	Cardiac disorder signs and symptoms
+cyanosis	Vascular disorders NEC
+herpes virus infection	Viral infectious disorders
+non-cardiac chest pain	Respiratory tract signs and symptoms
+non-cardiac chest pain	General system disorders NEC
+appendicitis	Gastrointestinal infections
+appendicitis	Infections - pathogen unspecified
+excoriation	Injuries NEC
+excoriation	Epidermal and dermal conditions
+erythema multiforme	Epidermal and dermal conditions
+erythema multiforme	Allergic conditions
+laryngeal pain	Respiratory tract signs and symptoms
+hepatic steatosis	Hepatic and hepatobiliary disorders
+hepatic steatosis	Lipid metabolism disorders
+nephropathy	Nephropathies
+corneal opacity	Anterior eye structural change, deposit and degeneration
+odynophagia	Oral soft tissue conditions
+herpes simplex	Viral infectious disorders
+herpes simplex	Skin and subcutaneous tissue infections and infestations
+gastrointestinal haemorrhage	Gastrointestinal haemorrhages NEC
+gastrointestinal haemorrhage	Vascular haemorrhagic disorders
+breath odour	Gastrointestinal signs and symptoms
+hepatobiliary disease	Hepatic and hepatobiliary disorders
+pseudomembranous colitis	Gastrointestinal infections
+pseudomembranous colitis	Bacterial infectious disorders
+psychotic disorder	Schizophrenia and other psychotic disorders
+eosinophilia	White blood cell disorders
+menstrual disorder	Menstrual cycle and uterine bleeding disorders
+seborrhoeic keratosis	Cutaneous neoplasms benign
+myocardial infarction	Coronary artery disorders
+myocardial infarction	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+diarrhoea	Gastrointestinal motility and defaecation conditions
+rash pustular	Epidermal and dermal conditions
+rash pustular	Infections - pathogen unspecified
+electroencephalogram abnormal	Neurological, special senses and psychiatric investigations
+acidosis	Acid-base disorders
+otitis externa	External ear disorders (excl congenital)
+otitis externa	Infections - pathogen unspecified
+duodenitis	Gastrointestinal inflammatory conditions
+polydipsia	Hypothalamus and pituitary gland disorders
+polydipsia	Electrolyte and fluid balance conditions
+vaginal infection	Female reproductive tract infections and inflammations
+vaginal infection	Infections - pathogen unspecified
+respiratory tract infection	Respiratory tract infections
+respiratory tract infection	Infections - pathogen unspecified
+cyst	Tissue disorders NEC
+cyst	Miscellaneous and site unspecified neoplasms benign
+pancreatitis	Exocrine pancreas conditions
+affective disorder	Mood disorders and disturbances NEC
+status epilepticus	Seizures (incl subtypes)
+epididymitis	Male reproductive tract infections and inflammations
+epididymitis	Infections - pathogen unspecified
+schizophreniform disorder	Schizophrenia and other psychotic disorders
+intermittent claudication	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+tachycardia	Cardiac arrhythmias
+keratitis	Ocular infections, irritations and inflammations
+local swelling	General system disorders NEC
+skin exfoliation	Epidermal and dermal conditions
+mydriasis	Ocular neuromuscular disorders
+mydriasis	Neurological disorders NEC
+atrial fibrillation	Cardiac arrhythmias
+gastrointestinal infection	Gastrointestinal infections
+gastrointestinal infection	Infections - pathogen unspecified
+peripheral vascular disorder	Vascular disorders NEC
+immune system disorder	Immune disorders NEC
+palpitations	Cardiac disorder signs and symptoms
+dyspnoea	Respiratory disorders NEC
+dyspnoea	Cardiac disorder signs and symptoms
+hyperlactacidaemia	Acid-base disorders
+nystagmus	Ocular neuromuscular disorders
+nystagmus	Neurological disorders NEC
+hypersensitivity	Allergic conditions
+multiple fractures	Bone and joint injuries
+multiple fractures	Fractures
+menorrhagia	Menstrual cycle and uterine bleeding disorders
+adrenal insufficiency	Adrenal gland disorders
+adrenal insufficiency	Metabolism disorders NEC
+skin infection	Skin and subcutaneous tissue infections and infestations
+skin infection	Infections - pathogen unspecified
+folliculitis	Skin and subcutaneous tissue infections and infestations
+folliculitis	Infections - pathogen unspecified
+sinus congestion	Upper respiratory tract disorders (excl infections)
+lacrimal disorder	Eye disorders NEC
+non-hodgkin's lymphoma	Lymphomas non-Hodgkin's unspecified histology
+tendinous contracture	Tendon, ligament and cartilage disorders
+renal tubular necrosis	Renal disorders (excl nephropathies)
+yawning	Respiratory tract signs and symptoms
+blood glucose decreased	Metabolic, nutritional and blood gas investigations
+application site rash	Epidermal and dermal conditions
+application site rash	Administration site reactions
+oral pain	Oral soft tissue conditions
+photophobia	Neurological disorders of the eye
+photophobia	Ocular sensory symptoms NEC
+subdural haematoma	Injuries NEC
+subdural haematoma	Central nervous system vascular disorders
+subdural haematoma	Vascular haemorrhagic disorders
+insomnia	Sleep disturbances (incl subtypes)
+insomnia	Sleep disorders and disturbances
+myocardial ischaemia	Coronary artery disorders
+myocardial ischaemia	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+confusional state	Deliria (incl confusion)
+confusional state	Neurological disorders NEC
+drug eruption	Epidermal and dermal conditions
+drug eruption	General system disorders NEC
+drug eruption	Allergic conditions
+dysphoria	Mood disorders and disturbances NEC
+lipase increased	Gastrointestinal investigations
+skin odour abnormal	Epidermal and dermal conditions
+hiccups	Respiratory tract signs and symptoms
+hiccups	Gastrointestinal signs and symptoms
+breast disorder	Breast disorders
+metrorrhagia	Menstrual cycle and uterine bleeding disorders
+oedema	Electrolyte and fluid balance conditions
+oedema	General system disorders NEC
+haematocrit decreased	Haematology investigations (incl blood groups)
+gastrooesophageal reflux disease	Gastrointestinal motility and defaecation conditions
+anaphylactoid reaction	Allergic conditions
+anaphylactoid reaction	Decreased and nonspecific blood pressure disorders and shock
+renal impairment	Renal disorders (excl nephropathies)
+thirst	General system disorders NEC
+thirst	Appetite and general nutritional disorders
+perineal pain	Reproductive tract disorders NEC
+injection site haemorrhage	Vascular haemorrhagic disorders
+injection site haemorrhage	Administration site reactions
+skin disorder	Epidermal and dermal conditions
+cough	Respiratory disorders NEC
+platelet count decreased	Haematology investigations (incl blood groups)
+ear disorder	Aural disorders NEC
+tongue oedema	Tongue conditions
+tongue oedema	Angioedema and urticaria
+tongue oedema	Allergic conditions
+benign neoplasm of skin	Cutaneous neoplasms benign
+feeling cold	General system disorders NEC
+breast neoplasm	Breast neoplasms malignant and unspecified (incl nipple)
+breast neoplasm	Breast disorders
+peripheral sensory neuropathy	Peripheral neuropathies
+gastroenteritis	Gastrointestinal infections
+gastroenteritis	Infections - pathogen unspecified
+rash macular	Epidermal and dermal conditions
+skin discolouration	Epidermal and dermal conditions
+myalgia	Muscle disorders
+blood uric acid increased	Metabolic, nutritional and blood gas investigations
+injection site erythema	Epidermal and dermal conditions
+injection site erythema	Administration site reactions
+withdrawal syndrome	Therapeutic and nontherapeutic effects (excl toxicity)
+withdrawal syndrome	Psychiatric disorders NEC
+conjunctival haemorrhage	Ocular haemorrhages and vascular disorders NEC
+conjunctival haemorrhage	Vascular haemorrhagic disorders
+gingivitis	Dental and gingival conditions
+gingivitis	Infections - pathogen unspecified
+anger	Mood disorders and disturbances NEC
+breast engorgement	Pregnancy, labour, delivery and postpartum conditions
+breast engorgement	Breast disorders
+ejaculation delayed	Sexual function and fertility disorders
+pulmonary congestion	Vascular disorders NEC
+pulmonary congestion	Heart failures
+pulmonary congestion	Lower respiratory tract disorders (excl obstruction and infection)
+neutropenia	White blood cell disorders
+abdominal distension	Gastrointestinal signs and symptoms
+fracture	Bone and joint injuries
+fracture	Fractures
+gangrene	Bacterial infectious disorders
+gangrene	Skin vascular abnormalities
+gangrene	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+viral upper respiratory tract infection	Viral infectious disorders
+viral upper respiratory tract infection	Respiratory tract infections
+pain	General system disorders NEC
+salpingitis	Female reproductive tract infections and inflammations
+salpingitis	Infections - pathogen unspecified
+musculoskeletal chest pain	Musculoskeletal and connective tissue disorders NEC
+musculoskeletal chest pain	Thoracic disorders (excl lung and pleura)
+bursitis	Synovial and bursal disorders
+bursitis	Bone and joint injuries
+urinary retention	Urinary tract signs and symptoms
+hypoventilation	Respiratory disorders NEC
+alanine aminotransferase increased	Hepatobiliary investigations
+lichenoid keratosis	Cornification and dystrophic skin disorders
+parkinsonism	Movement disorders (incl parkinsonism)
+weight increased	Physical examination and organ system status topics
+pleural effusion	Pleural disorders
+feeling drunk	General system disorders NEC
+mediastinal disorder	Thoracic disorders (excl lung and pleura)
+haemolytic anaemia	Haemolyses and related conditions
+intracranial pressure increased	Increased intracranial pressure and hydrocephalus
+respiratory tract congestion	Respiratory disorders NEC
+tinnitus	Inner ear and VIIIth cranial nerve disorders
+tinnitus	Cranial nerve disorders (excl neoplasms)
+rectal tenesmus	Muscle disorders
+rectal tenesmus	Anal and rectal conditions NEC
+hepatic cancer	Hepatobiliary neoplasms
+hepatic cancer	Hepatobiliary neoplasms malignant and unspecified
+gout	Joint disorders
+gout	Purine and pyrimidine metabolism disorders
+lethargy	Mood disorders and disturbances NEC
+lethargy	General system disorders NEC
+lethargy	Neurological disorders NEC
+aplasia pure red cell	Anaemias nonhaemolytic and marrow depression
+aplasia pure red cell	Immune disorders NEC
+diabetes mellitus	Glucose metabolism disorders (incl diabetes mellitus)
+anal pruritus	Anal and rectal conditions NEC
+ketosis	Acid-base disorders
+impetigo	Skin and subcutaneous tissue infections and infestations
+impetigo	Infections - pathogen unspecified
+instillation site pain	Administration site reactions
+sialoadenitis	Salivary gland conditions
+sialoadenitis	Infections - pathogen unspecified
+blood cholesterol increased	Lipid analyses
+arthropathy	Joint disorders
+hyperaemia	Vascular disorders NEC
+pain in jaw	Bone disorders (excl congenital and fractures)
+diverticulitis	Infections - pathogen unspecified
+diverticulitis	Diverticular disorders
+coma	Neurological disorders NEC
+mental disability	Lifestyle issues
+joint swelling	Joint disorders
+lacrimation increased	Eye disorders NEC
+application site burn	Epidermal and dermal conditions
+application site burn	Administration site reactions
+vasospasm	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+transaminases increased	Hepatobiliary investigations
+uterine spasm	Uterine, pelvic and broad ligament disorders
+blepharospasm	Neurological disorders of the eye
+blepharospasm	Ocular neuromuscular disorders
+pharyngitis streptococcal	Bacterial infectious disorders
+pharyngitis streptococcal	Respiratory tract infections
+hepatotoxicity	Hepatic and hepatobiliary disorders
+hepatotoxicity	Exposures, chemical injuries and poisoning
+ligament sprain	Injuries NEC
+ligament sprain	Tendon, ligament and cartilage disorders
+haemolytic uraemic syndrome	Renal disorders (excl nephropathies)
+haemolytic uraemic syndrome	Haemolyses and related conditions
+hyperlipidaemia	Lipid metabolism disorders
+hepatomegaly	Hepatic and hepatobiliary disorders
+blood disorder	Haematological disorders NEC
+sleep disorder	Sleep disorders and disturbances
+wheezing	Bronchial disorders (excl neoplasms)
+ovarian cyst	Reproductive neoplasms female benign
+ovarian cyst	Ovarian and fallopian tube disorders
+cardiac output decreased	Cardiac and vascular investigations (excl enzyme tests)
+agranulocytosis	White blood cell disorders
+hyperkinesia	Movement disorders (incl parkinsonism)
+cystitis	Bladder and bladder neck disorders (excl calculi)
+cystitis	Infections - pathogen unspecified
+hypertrichosis	Skin appendage conditions
+enteritis	Gastrointestinal inflammatory conditions
+splenomegaly	Spleen, lymphatic and reticuloendothelial system disorders
+pericarditis	Pericardial disorders
+lactic acidosis	Acid-base disorders
+increased appetite	General system disorders NEC
+increased appetite	Appetite and general nutritional disorders
+muscle tightness	Muscle disorders
+toothache	Dental and gingival conditions
+ear pain	Aural disorders NEC
+respiratory distress	Respiratory disorders NEC
+laceration	Injuries NEC
+laceration	Epidermal and dermal conditions
+bladder cancer	Renal and urinary tract neoplasms malignant and unspecified
+bladder cancer	Bladder and bladder neck disorders (excl calculi)
+hepatic function abnormal	Hepatic and hepatobiliary disorders
+ocular discomfort	Eye disorders NEC
+delirium	Deliria (incl confusion)
+menstruation irregular	Endocrine disorders of gonadal function
+menstruation irregular	Menstrual cycle and uterine bleeding disorders
+impaired healing	Tissue disorders NEC
+nocturia	Urinary tract signs and symptoms
+ototoxicity	Exposures, chemical injuries and poisoning
+ototoxicity	Aural disorders NEC
+eye oedema	Eye disorders NEC
+dehydration	Electrolyte and fluid balance conditions
+dermatitis acneiform	Skin appendage conditions
+sexual dysfunction	Sexual function and fertility disorders
+sexual dysfunction	Sexual dysfunctions, disturbances and gender identity disorders
+dermatitis bullous	Epidermal and dermal conditions
+rhonchi	Respiratory tract signs and symptoms
+phlebitis	Vascular inflammations
+phlebitis	Procedural related injuries and complications NEC
+cold sweat	Skin appendage conditions
+cold sweat	General system disorders NEC
+injection site induration	Administration site reactions
+haematuria	Urinary tract signs and symptoms
+haematuria	Vascular haemorrhagic disorders
+haematuria	Reproductive tract disorders NEC
+thyroiditis	Thyroid gland disorders
+infusion site pain	Administration site reactions
+application site pain	Administration site reactions
+glossodynia	Tongue conditions
+amblyopia	Vision disorders
+albuminuria	Urinary tract signs and symptoms
+neuralgia	Neurological disorders NEC
+cachexia	General system disorders NEC
+cachexia	Neoplasm related morbidities
+cachexia	Appetite and general nutritional disorders
+snoring	Respiratory tract signs and symptoms
+oesophageal stenosis	Gastrointestinal stenosis and obstruction
+vestibular disorder	Inner ear and VIIIth cranial nerve disorders
+vestibular disorder	Neurological disorders NEC
+pelvic pain	Urinary tract signs and symptoms
+pelvic pain	Gastrointestinal signs and symptoms
+pelvic pain	Reproductive tract disorders NEC
+hepatitis	Hepatic and hepatobiliary disorders
+priapism	Sexual function and fertility disorders
+rales	Respiratory tract signs and symptoms
+pancytopenia	Anaemias nonhaemolytic and marrow depression
+metabolic acidosis	Acid-base disorders
+paralysis	Movement disorders (incl parkinsonism)
+atrioventricular block first degree	Cardiac arrhythmias
+hypothermia	Injuries by physical agents
+hypothermia	Body temperature conditions
+upper respiratory tract infection	Respiratory tract infections
+upper respiratory tract infection	Infections - pathogen unspecified
+laboratory test abnormal	Investigations, imaging and histopathology procedures NEC
+haemorrhage intracranial	Central nervous system vascular disorders
+haemorrhage intracranial	Vascular haemorrhagic disorders
+retching	Gastrointestinal signs and symptoms
+presyncope	Cardiac disorder signs and symptoms
+presyncope	Decreased and nonspecific blood pressure disorders and shock
+presyncope	Neurological disorders NEC
+conduction disorder	Cardiac arrhythmias
+breast cancer	Breast neoplasms malignant and unspecified (incl nipple)
+breast cancer	Breast disorders
+electrocardiogram abnormal	Cardiac and vascular investigations (excl enzyme tests)
+blood alkaline phosphatase increased	Enzyme investigations NEC
+venous thrombosis	Embolism and thrombosis
+testicular pain	Testicular and epididymal disorders
+paraesthesia oral	Oral soft tissue conditions
+paraesthesia oral	Neurological disorders NEC
+oesophageal ulcer	Gastrointestinal ulceration and perforation
+dysgeusia	Tongue conditions
+dysgeusia	Neurological disorders NEC
+aneurysm	Aneurysms and artery dissections
+dysmenorrhoea	Menstrual cycle and uterine bleeding disorders
+pneumonia aspiration	Lower respiratory tract disorders (excl obstruction and infection)
+toxicity to various agents	Exposures, chemical injuries and poisoning
+hypertension	Vascular hypertensive disorders
+meningitis	Central nervous system infections and inflammations
+meningitis	Infections - pathogen unspecified
+somnambulism	Sleep disturbances (incl subtypes)
+somnambulism	Sleep disorders and disturbances
+protein urine present	Renal and urinary tract investigations and urinalyses
+abnormal faeces	Gastrointestinal signs and symptoms
+musculoskeletal pain	Musculoskeletal and connective tissue disorders NEC
+vertigo	Inner ear and VIIIth cranial nerve disorders
+vertigo	Neurological disorders NEC
+antisocial personality disorder	Personality disorders and disturbances in behaviour
+blood glucose increased	Metabolic, nutritional and blood gas investigations
+otitis media	Infections - pathogen unspecified
+otitis media	Middle ear disorders (excl congenital)
+apathy	Mood disorders and disturbances NEC
+urinary tract disorder	Genitourinary tract disorders NEC
+swelling face	Angioedema and urticaria
+swelling face	Allergic conditions
+skin striae	Cornification and dystrophic skin disorders
+influenza	Viral infectious disorders
+influenza	Respiratory tract infections
+embolism	Embolism and thrombosis
+supraventricular extrasystoles	Cardiac arrhythmias
+muscle contractions involuntary	Muscle disorders
+muscle contractions involuntary	Neuromuscular disorders
+ill-defined disorder	General system disorders NEC
+hernia	General system disorders NEC
+osteoporosis	Bone, calcium, magnesium and phosphorus metabolism disorders
+osteoporosis	Bone disorders (excl congenital and fractures)
+pulmonary embolism	Embolism and thrombosis
+pulmonary embolism	Pulmonary vascular disorders
+hyperhidrosis	Skin appendage conditions
+hyperhidrosis	General system disorders NEC
+nasal discomfort	Respiratory tract signs and symptoms
+telangiectasia	Vascular disorders NEC
+telangiectasia	Skin vascular abnormalities
+injection site pruritus	Epidermal and dermal conditions
+injection site pruritus	Administration site reactions
+lung infiltration	Lower respiratory tract disorders (excl obstruction and infection)
+hyperkalaemia	Electrolyte and fluid balance conditions
+vascular purpura	Vascular haemorrhagic disorders
+vascular purpura	Coagulopathies and bleeding diatheses (excl thrombocytopenic)
+vascular purpura	Skin vascular abnormalities
+conjunctivitis	Infections - pathogen unspecified
+conjunctivitis	Ocular infections, irritations and inflammations
+neoplasm malignant	Miscellaneous and site unspecified neoplasms malignant and unspecified
+urethritis	Urethral disorders (excl calculi)
+urethritis	Infections - pathogen unspecified
+vomiting	Gastrointestinal signs and symptoms
+blood triglycerides increased	Lipid analyses
+prurigo	Epidermal and dermal conditions
+pulmonary function test decreased	Respiratory and pulmonary investigations (excl blood gases)
+inappropriate antidiuretic hormone secretion	Hypothalamus and pituitary gland disorders
+inappropriate antidiuretic hormone secretion	Electrolyte and fluid balance conditions
+stupor	Sleep disorders and disturbances
+stupor	Neurological disorders NEC
+ovarian disorder	Ovarian and fallopian tube disorders
+oesophagitis	Gastrointestinal inflammatory conditions
+cataract	Anterior eye structural change, deposit and degeneration
+amylase increased	Gastrointestinal investigations
+haemoglobin	Haematology investigations (incl blood groups)
+injury	Injuries NEC
+weight decreased	Physical examination and organ system status topics
+blood phosphorus decreased	Water, electrolyte and mineral investigations
+cellulitis	Skin and subcutaneous tissue infections and infestations
+cellulitis	Bacterial infectious disorders
+embolism venous	Embolism and thrombosis
+ocular hyperaemia	Ocular infections, irritations and inflammations
+increased bronchial secretion	Respiratory tract signs and symptoms
+lymphocytosis	White blood cell disorders
+mental disorder	Psychiatric disorders NEC
+ageusia	Tongue conditions
+ageusia	Neurological disorders NEC
+pseudolymphoma	Spleen, lymphatic and reticuloendothelial system disorders
+bronchospasm paradoxical	Bronchial disorders (excl neoplasms)
+neutropenic sepsis	White blood cell disorders
+neutropenic sepsis	Infections - pathogen unspecified
+systemic lupus erythematosus	Connective tissue disorders (excl congenital)
+systemic lupus erythematosus	Epidermal and dermal conditions
+systemic lupus erythematosus	Autoimmune disorders
+eye swelling	Eye disorders NEC
+hypoproteinaemia	Hepatic and hepatobiliary disorders
+hypoproteinaemia	Protein and amino acid metabolism disorders NEC
+application site reaction	Administration site reactions
+joint stiffness	Joint disorders
+sensory disturbance	Neurological disorders NEC
+viral diarrhoea	Gastrointestinal infections
+viral diarrhoea	Viral infectious disorders
+dry throat	Respiratory tract signs and symptoms
+dry throat	Salivary gland conditions
+skin ulcer	Skin and subcutaneous tissue disorders NEC
+skin ulcer	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+peritonitis	Gastrointestinal infections
+peritonitis	Infections - pathogen unspecified
+injection site pain	Administration site reactions
+ileus paralytic	Gastrointestinal motility and defaecation conditions
+bradycardia	Cardiac arrhythmias
+flank pain	Urinary tract signs and symptoms
+flank pain	Musculoskeletal and connective tissue disorders NEC
+flank pain	General system disorders NEC
+erythema of eyelid	Epidermal and dermal conditions
+erythema of eyelid	Ocular infections, irritations and inflammations
+hypoalbuminaemia	Hepatic and hepatobiliary disorders
+hypoalbuminaemia	Protein and amino acid metabolism disorders NEC
+hypochromic anaemia	Anaemias nonhaemolytic and marrow depression
+nephritis	Nephropathies
+urinary tract infection	Genitourinary tract disorders NEC
+urinary tract infection	Infections - pathogen unspecified
+diarrhoea haemorrhagic	Gastrointestinal motility and defaecation conditions
+diarrhoea haemorrhagic	Vascular haemorrhagic disorders
+cholestasis	Hepatic and hepatobiliary disorders
+atelectasis	Lower respiratory tract disorders (excl obstruction and infection)
+penis disorder	Penile and scrotal disorders (excl infections and inflammations)
+aphasia	Cognitive and attention disorders and disturbances
+aphasia	Neurological disorders NEC
+oculogyric crisis	Ocular neuromuscular disorders
+oculogyric crisis	Movement disorders (incl parkinsonism)
+nodal arrhythmia	Cardiac arrhythmias
+application site dryness	Epidermal and dermal conditions
+application site dryness	Administration site reactions
+abdominal pain upper	Gastrointestinal signs and symptoms
+plasmacytoma	Plasma cell neoplasms
+pneumothorax	Pleural disorders
+oral candidiasis	Oral soft tissue conditions
+oral candidiasis	Fungal infectious disorders
+sudden death	Fatal outcomes
+sudden death	Cardiac arrhythmias
+blister	Injuries NEC
+blister	Epidermal and dermal conditions
+extrasystoles	Cardiac arrhythmias
+vasodilation procedure	Vascular therapeutic procedures
+plasma cell myeloma	Plasma cell neoplasms
+osteomyelitis	Bone disorders (excl congenital and fractures)
+osteomyelitis	Infections - pathogen unspecified
+pain in extremity	Musculoskeletal and connective tissue disorders NEC
+pyelonephritis	Renal disorders (excl nephropathies)
+pyelonephritis	Infections - pathogen unspecified
+febrile neutropenia	White blood cell disorders
+febrile neutropenia	Body temperature conditions
+cardiac flutter	Cardiac arrhythmias
+cerebral ischaemia	Central nervous system vascular disorders
+cerebral ischaemia	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+gastric ulcer	Gastrointestinal ulceration and perforation
+tooth abscess	Dental and gingival conditions
+tooth abscess	Infections - pathogen unspecified
+apnoea	Respiratory disorders NEC
+headache	Headaches
+xerophthalmia	Vitamin related disorders
+xerophthalmia	Anterior eye structural change, deposit and degeneration
+fasting	Lifestyle issues
+fibrocystic breast disease	Breast neoplasms benign (incl nipple)
+fibrocystic breast disease	Breast disorders
+oliguria	Renal disorders (excl nephropathies)
+anaphylactic shock	Allergic conditions
+anaphylactic shock	Decreased and nonspecific blood pressure disorders and shock
+sinus bradycardia	Cardiac arrhythmias
+neuropathy peripheral	Peripheral neuropathies
+tardive dyskinesia	Movement disorders (incl parkinsonism)
+rash erythematous	Epidermal and dermal conditions
+ear infection	Aural disorders NEC
+ear infection	Infections - pathogen unspecified
+atrial flutter	Cardiac arrhythmias
+papilloedema	Vascular disorders NEC
+papilloedema	Ocular structural change, deposit and degeneration NEC
+papilloedema	Increased intracranial pressure and hydrocephalus
+mucosal inflammation	General system disorders NEC
+sensation of foreign body	General system disorders NEC
+nephropathy toxic	Exposures, chemical injuries and poisoning
+nephropathy toxic	Nephropathies
+ileus	Gastrointestinal stenosis and obstruction
+gastrointestinal disorder	Gastrointestinal conditions NEC
+hepatic enzyme increased	Hepatobiliary investigations
+arrhythmia	Cardiac arrhythmias
+angiopathy	Vascular disorders NEC
+sluggishness	General system disorders NEC
+swelling	General system disorders NEC
+upper-airway cough syndrome	Respiratory tract signs and symptoms
+dermatitis contact	Exposures, chemical injuries and poisoning
+dermatitis contact	Epidermal and dermal conditions
+dermatitis contact	Allergic conditions
+akinesia	Movement disorders (incl parkinsonism)
+gastritis	Gastrointestinal inflammatory conditions
+paranoia	Personality disorders and disturbances in behaviour
+biliary colic	Bile duct disorders
+body temperature increased	Physical examination and organ system status topics
+speech disorder	Respiratory tract signs and symptoms
+speech disorder	Communication disorders and disturbances
+speech disorder	Neurological disorders NEC
+vulvovaginal pruritus	Epidermal and dermal conditions
+vulvovaginal pruritus	Vulvovaginal disorders (excl infections and inflammations)
+motion sickness	Inner ear and VIIIth cranial nerve disorders
+motion sickness	Neurological disorders NEC
+goitre	Thyroid gland disorders
+goitre	Metabolism disorders NEC
+cardiogenic shock	Heart failures
+cardiogenic shock	Decreased and nonspecific blood pressure disorders and shock
+dizziness	Cardiac disorder signs and symptoms
+dizziness	Decreased and nonspecific blood pressure disorders and shock
+dizziness	Neurological disorders NEC
+uveitis	Immune disorders NEC
+uveitis	Ocular infections, irritations and inflammations
+autonomic nervous system imbalance	General system disorders NEC
+autonomic nervous system imbalance	Neuromuscular disorders
+autonomic nervous system imbalance	Decreased and nonspecific blood pressure disorders and shock
+thrombocytopenia	Platelet disorders
+breast discharge	Breast disorders
+myopathy	Muscle disorders
+hypoaesthesia	Neurological disorders NEC
+nuchal rigidity	Muscle disorders
+nuchal rigidity	Neuromuscular disorders
+corneal erosion	Anterior eye structural change, deposit and degeneration
+pupils unequal	Ocular neuromuscular disorders
+pupils unequal	Neurological disorders NEC
+asthma	Bronchial disorders (excl neoplasms)
+asthma	Allergic conditions
+unintended pregnancy	Pregnancy, labour, delivery and postpartum conditions
+dysarthria	Communication disorders and disturbances
+dysarthria	Neurological disorders NEC
+cerebral infarction	Central nervous system vascular disorders
+cerebral infarction	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+hyperphosphataemia	Bone, calcium, magnesium and phosphorus metabolism disorders
+optic neuritis	Cranial nerve disorders (excl neoplasms)
+optic neuritis	Autoimmune disorders
+optic neuritis	Ocular infections, irritations and inflammations
+dysphagia	Gastrointestinal signs and symptoms
+sepsis	Infections - pathogen unspecified
+muscle relaxant therapy	Soft tissue therapeutic procedures
+memory impairment	Dementia and amnestic conditions
+memory impairment	Mental impairment disorders
+blood urine present	Renal and urinary tract investigations and urinalyses
+amnesia	Dementia and amnestic conditions
+amnesia	Mental impairment disorders
+sensory loss	Neurological disorders NEC
+eye irritation	Ocular infections, irritations and inflammations
+lymphopenia	White blood cell disorders
+retinal detachment	Injuries NEC
+retinal detachment	Ocular structural change, deposit and degeneration NEC
+abdominal discomfort	Gastrointestinal signs and symptoms
+thinking abnormal	Disturbances in thinking and perception
+thinking abnormal	Neurological disorders NEC
+affect lability	Mood disorders and disturbances NEC
+skin mass	Skin and subcutaneous tissue disorders NEC
+application site erythema	Epidermal and dermal conditions
+application site erythema	Administration site reactions
+vaginal discharge	Vulvovaginal disorders (excl infections and inflammations)
+dental caries	Dental and gingival conditions
+glycosuria	Urinary tract signs and symptoms
+bipolar i disorder	Manic and bipolar mood disorders and disturbances
+agitation	Anxiety disorders and symptoms
+agitation	Neurological disorders NEC
+periorbital oedema	Angioedema and urticaria
+periorbital oedema	Eye disorders NEC
+periorbital oedema	Allergic conditions
+eczema	Epidermal and dermal conditions
+migraine	Vascular disorders NEC
+migraine	Headaches
+paresis	Movement disorders (incl parkinsonism)
+white blood cell count increased	Haematology investigations (incl blood groups)
+sleep apnoea syndrome	Sleep disturbances (incl subtypes)
+sleep apnoea syndrome	Respiratory disorders NEC
+sleep apnoea syndrome	Sleep disorders and disturbances
+bronchial hyperreactivity	Bronchial disorders (excl neoplasms)
+depressed mood	Depressed mood disorders and disturbances
+lung disorder	Respiratory disorders NEC
+hyperventilation	Respiratory disorders NEC
+hyperventilation	Psychiatric and behavioural symptoms NEC
+anaemia megaloblastic	Anaemias nonhaemolytic and marrow depression
+anaemia megaloblastic	Vitamin related disorders
+coronary artery disease	Coronary artery disorders
+coronary artery disease	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+altered state of consciousness	Psychiatric disorders NEC
+altered state of consciousness	Neurological disorders NEC
+oropharyngeal pain	Respiratory tract signs and symptoms
+oropharyngeal pain	Oral soft tissue conditions
+pigmentation disorder	Pigmentation disorders
+hepatic failure	Hepatic and hepatobiliary disorders
+tetany	Muscle disorders
+tetany	Bone, calcium, magnesium and phosphorus metabolism disorders
+tetany	Parathyroid gland disorders
+crying	Mood disorders and disturbances NEC
+crying	Procedural related injuries and complications NEC
+crying	General system disorders NEC
+crying	Neurological disorders NEC
+myelitis	Central nervous system infections and inflammations
+myelitis	Infections - pathogen unspecified
+tubulointerstitial nephritis	Nephropathies
+muscular weakness	Muscle disorders
+muscular weakness	Neuromuscular disorders
+muscle atrophy	Muscle disorders
+muscle atrophy	Neuromuscular disorders
+enuresis	Urinary tract signs and symptoms
+enuresis	Psychiatric disorders NEC
+nail disorder	Skin appendage conditions
+trismus	Muscle disorders
+trismus	Movement disorders (incl parkinsonism)
+photopsia	Neurological disorders of the eye
+photopsia	Vision disorders
+pancreatitis acute	Exocrine pancreas conditions
+breast enlargement	Breast disorders
+major depression	Depressed mood disorders and disturbances
+hyperpathia	Neurological disorders NEC
+supraventricular tachycardia	Cardiac arrhythmias
+fluid overload	Electrolyte and fluid balance conditions
+fluid overload	Heart failures
+acute myocardial infarction	Coronary artery disorders
+acute myocardial infarction	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+tooth infection	Dental and gingival conditions
+tooth infection	Infections - pathogen unspecified
+hypermagnesaemia	Bone, calcium, magnesium and phosphorus metabolism disorders
+labyrinthitis	Inner ear and VIIIth cranial nerve disorders
+labyrinthitis	Infections - pathogen unspecified
+hair colour changes	Skin appendage conditions
+hepatic necrosis	Hepatic and hepatobiliary disorders
+jaundice cholestatic	Hepatic and hepatobiliary disorders
+urine output increased	Renal and urinary tract investigations and urinalyses
+throat irritation	Respiratory tract signs and symptoms
+throat irritation	Oral soft tissue conditions
+prothrombin level increased	Haematology investigations (incl blood groups)
+eye haemorrhage	Ocular haemorrhages and vascular disorders NEC
+eye haemorrhage	Vascular haemorrhagic disorders
+ulcerative keratitis	Immune disorders NEC
+ulcerative keratitis	Ocular infections, irritations and inflammations
+glaucoma	Glaucoma and ocular hypertension
+gingival bleeding	Dental and gingival conditions
+gingival bleeding	Vascular haemorrhagic disorders
+respiration abnormal	Respiratory disorders NEC
+deafness	Hearing disorders
+dry mouth	Salivary gland conditions
+myoclonus	Neurological disorders NEC
+cerebrovascular accident	Central nervous system vascular disorders
+cerebrovascular accident	Vascular disorders NEC
+toxic epidermal necrolysis	Exposures, chemical injuries and poisoning
+toxic epidermal necrolysis	Epidermal and dermal conditions
+toxic epidermal necrolysis	Allergic conditions
+toxic epidermal necrolysis	Ancillary infectious topics
+orthostatic hypotension	Neuromuscular disorders
+orthostatic hypotension	Decreased and nonspecific blood pressure disorders and shock
+procedural pain	Procedural related injuries and complications NEC
+procedural pain	General system disorders NEC
+oesophageal spasm	Gastrointestinal motility and defaecation conditions
+chronic obstructive pulmonary disease	Bronchial disorders (excl neoplasms)
+hyperreflexia	Neurological disorders NEC
+suicide attempt	Suicidal and self-injurious behaviours NEC
+atrioventricular block	Cardiac arrhythmias
+nervous system disorder	Neurological disorders NEC
+rash generalised	Epidermal and dermal conditions
+impaired gastric emptying	Gastrointestinal motility and defaecation conditions
+mucous membrane disorder	General system disorders NEC
+cerebrovascular disorder	Central nervous system vascular disorders
+cerebrovascular disorder	Vascular disorders NEC
+disturbance in sexual arousal	Sexual dysfunctions, disturbances and gender identity disorders
+hiatus hernia	Thoracic disorders (excl lung and pleura)
+hiatus hernia	Abdominal hernias and other abdominal wall conditions
+lipodystrophy acquired	Skin and subcutaneous tissue disorders NEC
+lipodystrophy acquired	Lipid metabolism disorders
+bruxism	Changes in physical activity
+bruxism	Gastrointestinal signs and symptoms
+torticollis	Muscle disorders
+torticollis	Movement disorders (incl parkinsonism)
+back pain	Musculoskeletal and connective tissue disorders NEC
+coagulopathy	Coagulopathies and bleeding diatheses (excl thrombocytopenic)
+gamma-glutamyltransferase increased	Hepatobiliary investigations
+rhinorrhoea	Respiratory tract signs and symptoms
+night blindness	Vision disorders
+night blindness	Vitamin related disorders
+thrombosis	Embolism and thrombosis
+bone disorder	Bone disorders (excl congenital and fractures)
+vulvovaginal dryness	Vulvovaginal disorders (excl infections and inflammations)
+dysphonia	Respiratory tract signs and symptoms
+dysphonia	Communication disorders and disturbances
+dysphonia	Neurological disorders NEC
+hypothyroidism	Thyroid gland disorders
+hypothyroidism	Metabolism disorders NEC
+drug hypersensitivity	Allergic conditions
+oropharyngeal discomfort	Respiratory tract signs and symptoms
+oropharyngeal discomfort	Oral soft tissue conditions
+hypertriglyceridaemia	Lipid metabolism disorders
+accommodation disorder	Vision disorders
+pharyngeal oedema	Upper respiratory tract disorders (excl infections)
+pharyngeal oedema	Angioedema and urticaria
+pharyngeal oedema	Allergic conditions
+nervousness	Anxiety disorders and symptoms
+cushing's syndrome	Vascular hypertensive disorders
+cushing's syndrome	Adrenal gland disorders
+cushing's syndrome	Psychiatric disorders NEC
+cushing's syndrome	Metabolism disorders NEC
+muscle spasms	Muscle disorders
+vision blurred	Neurological disorders of the eye
+vision blurred	Vision disorders
+nausea	Gastrointestinal signs and symptoms
+shock	Decreased and nonspecific blood pressure disorders and shock
+tenderness	General system disorders NEC
+neck pain	Musculoskeletal and connective tissue disorders NEC
+application site pruritus	Epidermal and dermal conditions
+application site pruritus	Administration site reactions
+respiratory depression	Respiratory disorders NEC
+respiratory depression	Neurological disorders NEC
+sciatica	Spinal cord and nerve root disorders
+sciatica	Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders)
+dermatitis exfoliative	Epidermal and dermal conditions
+dermatitis exfoliative	Allergic conditions
+depression	Depressed mood disorders and disturbances
+orgasm abnormal	Sexual function and fertility disorders
+orgasm abnormal	Sexual dysfunctions, disturbances and gender identity disorders
+cardiac failure congestive	Heart failures
+therapeutic response unexpected	Therapeutic and nontherapeutic effects (excl toxicity)
+influenza like illness	General system disorders NEC
+bleeding time prolonged	Haematology investigations (incl blood groups)
+tremor	Movement disorders (incl parkinsonism)
+intestinal perforation	Gastrointestinal ulceration and perforation
+blood prolactin increased	Endocrine investigations (incl sex hormones)
+tendon disorder	Tendon, ligament and cartilage disorders
+face oedema	Angioedema and urticaria
+face oedema	General system disorders NEC
+face oedema	Allergic conditions
+acne	Skin appendage conditions
+antisocial behaviour	Personality disorders and disturbances in behaviour
+micturition disorder	Urinary tract signs and symptoms
+feeling jittery	General system disorders NEC
+cognitive disorder	Cognitive and attention disorders and disturbances
+cognitive disorder	Mental impairment disorders
+skin irritation	Epidermal and dermal conditions
+urethral disorder	Urethral disorders (excl calculi)
+gastrointestinal ulcer	Gastrointestinal ulceration and perforation
+polyneuropathy	Peripheral neuropathies
+psoriasis	Epidermal and dermal conditions
+psoriasis	Immune disorders NEC
+infection	Infections - pathogen unspecified
+cystitis noninfective	Bladder and bladder neck disorders (excl calculi)
+hypertonia	Muscle disorders
+hypertonia	Neuromuscular disorders
+prostatitis	Male reproductive tract infections and inflammations
+urethritis noninfective	Urethral disorders (excl calculi)
+angina pectoris	Coronary artery disorders
+angina pectoris	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+hypersomnia	Sleep disturbances (incl subtypes)
+hypersomnia	Sleep disorders and disturbances
+wound infection	Injuries NEC
+wound infection	Infections - pathogen unspecified
+injection site bruising	Epidermal and dermal conditions
+injection site bruising	Vascular haemorrhagic disorders
+injection site bruising	Administration site reactions
+eyelid oedema	Angioedema and urticaria
+eyelid oedema	Allergic conditions
+eyelid oedema	Ocular infections, irritations and inflammations
+neuroleptic malignant syndrome	Muscle disorders
+neuroleptic malignant syndrome	Exposures, chemical injuries and poisoning
+neuroleptic malignant syndrome	Body temperature conditions
+neuroleptic malignant syndrome	Neuromuscular disorders
+urinary hesitation	Urinary tract signs and symptoms
+respiratory disorder	Respiratory disorders NEC
+haemoglobin decreased	Haematology investigations (incl blood groups)
+tension	Anxiety disorders and symptoms
+hypercalciuria	Urinary tract signs and symptoms
+hypercalciuria	Bone, calcium, magnesium and phosphorus metabolism disorders
+hypercalciuria	Parathyroid gland disorders
+serum sickness	Procedural related injuries and complications NEC
+serum sickness	Allergic conditions
+azotaemia	Renal disorders (excl nephropathies)
+nephrotic syndrome	Nephropathies
+psychomotor retardation	Depressed mood disorders and disturbances
+discomfort	General system disorders NEC
+thrombophlebitis	Embolism and thrombosis
+fatigue	General system disorders NEC
+increased tendency to bruise	Vascular haemorrhagic disorders
+increased tendency to bruise	Coagulopathies and bleeding diatheses (excl thrombocytopenic)
+increased tendency to bruise	Skin vascular abnormalities
+monocytosis	White blood cell disorders
+hypoaesthesia oral	Oral soft tissue conditions
+hypoaesthesia oral	Neurological disorders NEC
+arthralgia	Joint disorders
+arrhythmia supraventricular	Cardiac arrhythmias
+electrolyte imbalance	Electrolyte and fluid balance conditions
+cardiac disorder	Cardiac disorder signs and symptoms
+application site vesicles	Epidermal and dermal conditions
+application site vesicles	Administration site reactions
+pericardial effusion	Pericardial disorders
+bone pain	Bone disorders (excl congenital and fractures)
+generalised oedema	Electrolyte and fluid balance conditions
+generalised oedema	General system disorders NEC
+myocarditis	Myocardial disorders
+faecaloma	Gastrointestinal signs and symptoms
+acute coronary syndrome	Coronary artery disorders
+acute coronary syndrome	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+haematoma	Vascular haemorrhagic disorders
+dizziness postural	Cardiac disorder signs and symptoms
+dizziness postural	Decreased and nonspecific blood pressure disorders and shock
+dizziness postural	Neurological disorders NEC
+hyperglycaemia	Glucose metabolism disorders (incl diabetes mellitus)
+temperature intolerance	General system disorders NEC
+pleurisy	Pleural disorders
+irritability	Mood disorders and disturbances NEC
+irritability	General system disorders NEC
+skin burning sensation	Epidermal and dermal conditions
+skin burning sensation	Neurological disorders NEC
+lymphocyte count decreased	Haematology investigations (incl blood groups)
+tooth disorder	Dental and gingival conditions
+flushing	Vascular disorders NEC
+flushing	General system disorders NEC
+flushing	Skin vascular abnormalities
+cardiac murmur	Cardiac and vascular investigations (excl enzyme tests)
+gastrointestinal pain	Gastrointestinal signs and symptoms
+salivary hypersecretion	Salivary gland conditions
+dysaesthesia	Neurological disorders NEC
+blood potassium decreased	Water, electrolyte and mineral investigations
+interstitial lung disease	Immune disorders NEC
+interstitial lung disease	Lower respiratory tract disorders (excl obstruction and infection)
+duodenal ulcer	Gastrointestinal ulceration and perforation
+eye infection	Infections - pathogen unspecified
+eye infection	Ocular infections, irritations and inflammations
+chills	Muscle disorders
+chills	General system disorders NEC
+abnormal behaviour	Psychiatric and behavioural symptoms NEC
+punctate keratitis	Ocular infections, irritations and inflammations
+hypomania	Manic and bipolar mood disorders and disturbances
+muscle twitching	Muscle disorders
+melaena	Gastrointestinal haemorrhages NEC
+melaena	Vascular haemorrhagic disorders
+hypokalaemia	Electrolyte and fluid balance conditions
+vaginal haemorrhage	Vascular haemorrhagic disorders
+vaginal haemorrhage	Vulvovaginal disorders (excl infections and inflammations)
+malignant melanoma	Skin neoplasms malignant and unspecified
+anaemia	Anaemias nonhaemolytic and marrow depression
+alopecia	Skin appendage conditions
+emotional disorder	Mood disorders and disturbances NEC
+urine abnormality	Urinary tract signs and symptoms
+hypercholesterolaemia	Lipid metabolism disorders
+breath sounds abnormal	Physical examination and organ system status topics
+hemiplegia	Movement disorders (incl parkinsonism)
+eye pruritus	Ocular infections, irritations and inflammations
+purpura	Vascular haemorrhagic disorders
+purpura	Coagulopathies and bleeding diatheses (excl thrombocytopenic)
+purpura	Skin vascular abnormalities
+menopausal symptoms	Menopause related conditions
+skin hypertrophy	Cornification and dystrophic skin disorders
+staphylococcal infection	Bacterial infectious disorders
+stomatitis	Oral soft tissue conditions
+dementia	Dementia and amnestic conditions
+dementia	Mental impairment disorders
+pallor	Epidermal and dermal conditions
+pallor	Vascular disorders NEC
+pallor	General system disorders NEC
+laryngeal oedema	Upper respiratory tract disorders (excl infections)
+laryngeal oedema	Angioedema and urticaria
+laryngeal oedema	Allergic conditions
+faecalith	Gastrointestinal signs and symptoms
+hangover	General system disorders NEC
+prostatic disorder	Prostatic disorders (excl infections and inflammations)
+retinal degeneration	Ocular structural change, deposit and degeneration NEC
+euphoric mood	Mood disorders and disturbances NEC
+white blood cell count decreased	Haematology investigations (incl blood groups)
+epigastric discomfort	Gastrointestinal signs and symptoms
+sinus tachycardia	Cardiac arrhythmias
+throat tightness	Respiratory tract signs and symptoms
+throat tightness	Psychiatric and behavioural symptoms NEC
+hyperthyroidism	Thyroid gland disorders
+hyperthyroidism	Metabolism disorders NEC
+peripheral motor neuropathy	Peripheral neuropathies
+road traffic accident	Injuries NEC
+rash maculo-papular	Epidermal and dermal conditions
+cholecystitis	Gallbladder disorders
+retinal haemorrhage	Retina, choroid and vitreous haemorrhages and vascular disorders
+retinal haemorrhage	Vascular haemorrhagic disorders
+amenorrhoea	Endocrine disorders of gonadal function
+amenorrhoea	Menstrual cycle and uterine bleeding disorders
+rash	Epidermal and dermal conditions
+vascular headache	Vascular disorders NEC
+vascular headache	Headaches
+thrombocytosis	Platelet disorders
+respiratory failure	Acid-base disorders
+respiratory failure	Respiratory disorders NEC
+hyperuricaemia	Purine and pyrimidine metabolism disorders
+malaise	General system disorders NEC
+asocial behaviour	Personality disorders and disturbances in behaviour
+post procedural haemorrhage	Vascular haemorrhagic disorders
+post procedural haemorrhage	Procedural related injuries and complications NEC
+dyspepsia	Gastrointestinal signs and symptoms
+alcohol intolerance	Food intolerance syndromes
+hypercalcaemia	Bone, calcium, magnesium and phosphorus metabolism disorders
+hypercalcaemia	Parathyroid gland disorders
+gastrointestinal perforation	Gastrointestinal ulceration and perforation
+drug ineffective	Therapeutic and nontherapeutic effects (excl toxicity)
+abdominal pain	Gastrointestinal signs and symptoms
+congenital eye disorder	Eye disorders NEC
+congenital eye disorder	Eye disorders congenital
+angioedema	Upper respiratory tract disorders (excl infections)
+angioedema	Angioedema and urticaria
+angioedema	Allergic conditions
+retinal disorder	Eye disorders NEC
+bladder pain	Urinary tract signs and symptoms
+contusion	Injuries NEC
+contusion	Epidermal and dermal conditions
+contusion	Musculoskeletal and connective tissue disorders NEC
+contusion	Vascular haemorrhagic disorders
+septic shock	Infections - pathogen unspecified
+septic shock	Decreased and nonspecific blood pressure disorders and shock
+nightmare	Sleep disorders and disturbances
+blood pressure increased	Cardiac and vascular investigations (excl enzyme tests)
+pulmonary fibrosis	Lower respiratory tract disorders (excl obstruction and infection)
+eye pain	Eye disorders NEC
+intestinal obstruction	Gastrointestinal stenosis and obstruction
+anorectal discomfort	Anal and rectal conditions NEC
+chest discomfort	Respiratory tract signs and symptoms
+chest discomfort	Coronary artery disorders
+chest discomfort	General system disorders NEC
+akathisia	Anxiety disorders and symptoms
+akathisia	Movement disorders (incl parkinsonism)
+extrapyramidal disorder	Movement disorders (incl parkinsonism)
+faeces discoloured	Gastrointestinal signs and symptoms
+blepharitis	Epidermal and dermal conditions
+blepharitis	Ocular infections, irritations and inflammations
+enterocolitis	Gastrointestinal inflammatory conditions
+petechiae	Vascular haemorrhagic disorders
+petechiae	Coagulopathies and bleeding diatheses (excl thrombocytopenic)
+petechiae	Skin vascular abnormalities
+dysuria	Urinary tract signs and symptoms
+oedema peripheral	Electrolyte and fluid balance conditions
+oedema peripheral	General system disorders NEC
+oedema peripheral	Heart failures
+haemorrhage	Vascular haemorrhagic disorders
+oral herpes	Viral infectious disorders
+oral herpes	Oral soft tissue conditions
+erythema nodosum	Skin and subcutaneous tissue disorders NEC
+erythema nodosum	Immune disorders NEC
+pruritus generalised	Epidermal and dermal conditions
+injection site inflammation	Administration site reactions
+mood swings	Mood disorders and disturbances NEC
+anorgasmia	Sexual dysfunctions, disturbances and gender identity disorders
+micturition urgency	Urinary tract signs and symptoms
+carpal tunnel syndrome	Peripheral neuropathies
+infestation	Skin and subcutaneous tissue infections and infestations
+infestation	Ectoparasitic disorders
+hypotension	Decreased and nonspecific blood pressure disorders and shock
+eructation	Gastrointestinal signs and symptoms
+nasal dryness	Upper respiratory tract disorders (excl infections)
+intraocular pressure increased	Neurological, special senses and psychiatric investigations
+photosensitivity reaction	Epidermal and dermal conditions
+delusion	Disturbances in thinking and perception
+stridor	Upper respiratory tract disorders (excl infections)
+liver function test abnormal	Hepatobiliary investigations
+infarction	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+lymphoedema	Lymphatic vessel disorders
+lymphoedema	Spleen, lymphatic and reticuloendothelial system disorders
+ataxia	General system disorders NEC
+ataxia	Neurological disorders NEC
+gingival pain	Dental and gingival conditions
+iritis	Immune disorders NEC
+iritis	Ocular infections, irritations and inflammations
+sunburn	Epidermal and dermal conditions
+sunburn	Injuries by physical agents
+catheter site pain	Administration site reactions
+haemorrhagic disorder	Vascular haemorrhagic disorders
+haemorrhagic disorder	Coagulopathies and bleeding diatheses (excl thrombocytopenic)
+libido increased	Sexual function and fertility disorders
+libido increased	Sexual dysfunctions, disturbances and gender identity disorders
+suicidal ideation	Suicidal and self-injurious behaviours NEC
+blood urea increased	Renal and urinary tract investigations and urinalyses
+arteriosclerosis	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+derealisation	Disturbances in thinking and perception
+visual acuity reduced	Neurological disorders of the eye
+visual acuity reduced	Vision disorders
+fluid retention	Renal disorders (excl nephropathies)
+fluid retention	Electrolyte and fluid balance conditions
+dyspnoea exertional	Respiratory disorders NEC
+dyspnoea exertional	Cardiac disorder signs and symptoms
+mouth ulceration	Oral soft tissue conditions
+erectile dysfunction	Sexual function and fertility disorders
+erectile dysfunction	Sexual dysfunctions, disturbances and gender identity disorders
+hyperbilirubinaemia	Hepatic and hepatobiliary disorders
+hyperbilirubinaemia	Haemolyses and related conditions
+hyperbilirubinaemia	Metabolism disorders NEC
+musculoskeletal discomfort	Musculoskeletal and connective tissue disorders NEC
+bacterial infection	Bacterial infectious disorders
+libido decreased	Sexual function and fertility disorders
+libido decreased	Sexual dysfunctions, disturbances and gender identity disorders
+tachypnoea	Respiratory disorders NEC
+electrocardiogram qt prolonged	Cardiac and vascular investigations (excl enzyme tests)
+retroperitoneal haemorrhage	Peritoneal and retroperitoneal conditions
+retroperitoneal haemorrhage	Vascular haemorrhagic disorders
+blood albumin decreased	Protein and chemistry analyses NEC
+haematochezia	Gastrointestinal haemorrhages NEC
+haematochezia	Vascular haemorrhagic disorders
+iron deficiency anaemia	Anaemias nonhaemolytic and marrow depression
+iron deficiency anaemia	Iron and trace metal metabolism disorders
+gynaecomastia	Endocrine disorders of gonadal function
+gynaecomastia	Breast disorders
+pulmonary hypertension	Vascular hypertensive disorders
+pulmonary hypertension	Pulmonary vascular disorders
+sticky skin	Epidermal and dermal conditions
+panic attack	Anxiety disorders and symptoms
+epistaxis	Upper respiratory tract disorders (excl infections)
+epistaxis	Vascular haemorrhagic disorders
+conjunctival hyperaemia	Ocular infections, irritations and inflammations
+neurosis	Anxiety disorders and symptoms
+inflammation	General system disorders NEC
+conjunctival oedema	Ocular infections, irritations and inflammations
+cerebellar syndrome	Neurological disorders NEC
+tendonitis	Injuries NEC
+tendonitis	Tendon, ligament and cartilage disorders
+tracheobronchitis	Respiratory tract infections
+tracheobronchitis	Infections - pathogen unspecified
+aspartate aminotransferase increased	Hepatobiliary investigations
+skin lesion	Epidermal and dermal conditions
+osteonecrosis	Bone disorders (excl congenital and fractures)
+osteonecrosis	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
+productive cough	Respiratory disorders NEC
+proteinuria	Urinary tract signs and symptoms
+tongue discolouration	Tongue conditions
+pruritus	Epidermal and dermal conditions
+libido disorder	Sexual function and fertility disorders
+libido disorder	Sexual dysfunctions, disturbances and gender identity disorders
+hair texture abnormal	Skin appendage conditions
+vasculitis	Vascular inflammations
+vasculitis	Immune disorders NEC
+acute respiratory distress syndrome	Lower respiratory tract disorders (excl obstruction and infection)
+seasonal allergy	Upper respiratory tract disorders (excl infections)
+seasonal allergy	Allergic conditions
+seasonal allergy	Ocular infections, irritations and inflammations
+exophthalmos	Thyroid gland disorders
+exophthalmos	Ocular structural change, deposit and degeneration NEC
+deep vein thrombosis	Embolism and thrombosis
+muscle rigidity	Muscle disorders
+muscle rigidity	Neuromuscular disorders
+hirsutism	Endocrine disorders of gonadal function
+hirsutism	Skin appendage conditions
+rash papular	Epidermal and dermal conditions
+cervix disorder	Cervix disorders (excl infections and inflammations)
+thyroid disorder	Thyroid gland disorders
+proctalgia	Anal and rectal conditions NEC
+vulvovaginal candidiasis	Female reproductive tract infections and inflammations
+vulvovaginal candidiasis	Fungal infectious disorders
+hypocalcaemia	Bone, calcium, magnesium and phosphorus metabolism disorders
+night sweats	Skin appendage conditions
+night sweats	General system disorders NEC
+hypernatraemia	Electrolyte and fluid balance conditions
+conjunctivitis allergic	Allergic conditions
+conjunctivitis allergic	Ocular infections, irritations and inflammations
+vulvovaginitis	Female reproductive tract infections and inflammations
+vulvovaginitis	Infections - pathogen unspecified
+visual impairment	Vision disorders
+ischaemia	Arteriosclerosis, stenosis, vascular insufficiency and necrosis
